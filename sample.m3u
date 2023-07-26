@@ -605,6 +605,8 @@ http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2893
 http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2892
 #EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| POP KIDS PEPPA PIG" tvg-logo="" group-title="ENGLISH",|ENGLISH| POP KIDS PEPPA PIG
 http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/226482
+#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-BD| T SPORTS HD" tvg-logo="" group-title="SPORTS",|CUP-BD| T SPORTS HD
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="|CUP-PK| PTV SPORTS HD" tvg-logo="" group-title="SPORTS",|CUP-PK| PTV SPORTS HD
 http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433080
 #EXTINF:-1 tvg-id="ext" tvg-name="|CUP-PK| PTV Sports HD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-PK| PTV Sports HD (BACKUP)
