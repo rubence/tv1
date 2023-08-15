@@ -141,7 +141,347 @@ http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100757
 http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100759
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL TT" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL TT
 http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100760
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/key?payload=gAAAAABkv4LEZddHs5n16ZbOtFU0EaiW0NhzMh_ZCQDSPpQ3nbdUau8bEMmU75PL8JEIY2nnaifQ4wU0HQ1AsHAG00PPJZ8tBwwH2UShFH2sD7NL-0npQ2HeRDXDn3xzUj1DH1MktHowjQA10CaA1-2B9xBrjf7sC3m4yeOfApoo8GmYDPt-W9w=
-#EXTINF:-1 tvg-id="ts842" group-title="Spiritual - IPTV by @cratos_logan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",Somnath Temple
-https://delta45tatasky.akamaized.net/out/i/722.mpd
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1080" tvg-logo="http://bl3rbe.net/up/st4td8EHVH.png" group-title="INDIA ⭐️ الهند",STAR PLUS 1080
+http://5gfksa.ltd:80/live/123456123/654321/505257.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="http://bl3rbe.net/up/xV2cG5vMf7Yh.jpeg" group-title="INDIA ⭐️ الهند",STAR GOLD HD
+http://5gfksa.ltd:80/live/123456123/654321/43133.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 1080" tvg-logo="http://bl3rbe.net/up/rM6YeEb.jpeg" group-title="INDIA ⭐️ الهند",STAR GOLD 1080
+http://5gfksa.ltd:80/live/123456123/654321/43156.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT HD" tvg-logo="http://bl3rbe.net/up/lPs7xbyM.jpeg" group-title="INDIA ⭐️ الهند",STAR GOLD SELECT HD
+http://5gfksa.ltd:80/live/123456123/654321/43129.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD SELECT 1080" tvg-logo="http://bl3rbe.net/up/lPs7xbyM.jpeg" group-title="INDIA ⭐️ الهند",STAR GOLD SELECT 1080
+http://5gfksa.ltd:80/live/123456123/654321/505267.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="http://bl3rbe.net/up/hj0VSl93Y.png" group-title="INDIA ⭐️ الهند",STAR BHARAT HD
+http://5gfksa.ltd:80/live/123456123/654321/42882.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT 1080" tvg-logo="http://bl3rbe.net/up/hj0VSl93Y.png" group-title="INDIA ⭐️ الهند",STAR BHARAT 1080
+http://5gfksa.ltd:80/live/123456123/654321/505260.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES 1080" tvg-logo="http://bl3rbe.net/up/frGGDlp8XhPF.png" group-title="INDIA ⭐️ الهند",STAR MOVIES 1080
+http://5gfksa.ltd:80/live/123456123/654321/43164.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV HD" tvg-logo="http://bl3rbe.net/up/XygL4JkuF8.png" group-title="INDIA ⭐️ الهند",SONY TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42878.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY TV 1080" tvg-logo="http://bl3rbe.net/up/XygL4JkuF8.png" group-title="INDIA ⭐️ الهند",SONY TV 1080
+http://5gfksa.ltd:80/live/123456123/654321/505259.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SAB TV HD" tvg-logo="http://bl3rbe.net/up/qGqOZ4b7kY.png" group-title="INDIA ⭐️ الهند",SONY SAB TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42879.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL HD" tvg-logo="http://bl3rbe.net/up/2eJH483CE.png" group-title="INDIA ⭐️ الهند",SONY PAL HD
+http://5gfksa.ltd:80/live/123456123/654321/42890.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY WAH HD" tvg-logo="http://bl3rbe.net/up/rfYThGSIXVT.png" group-title="INDIA ⭐️ الهند",SONY WAH HD
+http://5gfksa.ltd:80/live/123456123/654321/42892.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX HD" tvg-logo="http://bl3rbe.net/up/NJm9344aAY.png" group-title="INDIA ⭐️ الهند",SONY MAX HD
+http://5gfksa.ltd:80/live/123456123/654321/43142.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY MAX 2 HD" tvg-logo="http://bl3rbe.net/up/N2Kin6ocPS.png" group-title="INDIA ⭐️ الهند",SONY MAX 2 HD
+http://5gfksa.ltd:80/live/123456123/654321/43140.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS TV HD" tvg-logo="http://bl3rbe.net/up/sQmbUQlNnM.png" group-title="INDIA ⭐️ الهند",COLORS TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42873.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS TV 1080" tvg-logo="http://bl3rbe.net/up/sQmbUQlNnM.png" group-title="INDIA ⭐️ الهند",COLORS TV 1080
+http://5gfksa.ltd:80/live/123456123/654321/505258.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="http://bl3rbe.net/up/FJcUD1hrIRo.png" group-title="INDIA ⭐️ الهند",ZEE TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42867.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV 1080" tvg-logo="http://bl3rbe.net/up/FJcUD1hrIRo.png" group-title="INDIA ⭐️ الهند",ZEE TV 1080
+http://5gfksa.ltd:80/live/123456123/654321/505256.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL HD" tvg-logo="http://bl3rbe.net/up/SuOugc6vmQ.png" group-title="INDIA ⭐️ الهند",ZEE ANMOL HD
+http://5gfksa.ltd:80/live/123456123/654321/42891.ts
+#EXTINF:-1 tvg-id="" tvg-name="PICTURES HD" tvg-logo="http://bl3rbe.net/up/5cXHhraIMF.png" group-title="INDIA ⭐️ الهند",PICTURES HD
+http://5gfksa.ltd:80/live/123456123/654321/43149.ts
+#EXTINF:-1 tvg-id="" tvg-name="PICTURES 1080" tvg-logo="http://bl3rbe.net/up/5cXHhraIMF.png" group-title="INDIA ⭐️ الهند",PICTURES 1080
+http://5gfksa.ltd:80/live/123456123/654321/505268.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ACTION HD" tvg-logo="http://bl3rbe.net/up/7IvU7Rdj.jpeg" group-title="INDIA ⭐️ الهند",ZEE ACTION HD
+http://5gfksa.ltd:80/live/123456123/654321/172200.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="http://bl3rbe.net/up/5dwvQ5uxyk.png" group-title="INDIA ⭐️ الهند",ZEE CINEMA HD
+http://5gfksa.ltd:80/live/123456123/654321/172201.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA 1080" tvg-logo="http://bl3rbe.net/up/MV8Jn8gUdVeF.png" group-title="INDIA ⭐️ الهند",ZEE CINEMA 1080
+http://5gfksa.ltd:80/live/123456123/654321/180289.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC HD" tvg-logo="http://bl3rbe.net/up/5mgMT5w.jpeg" group-title="INDIA ⭐️ الهند",B4U MUSIC HD
+http://5gfksa.ltd:80/live/123456123/654321/42898.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://bl3rbe.net/up/W0ARNWC6L.jpeg" group-title="INDIA ⭐️ الهند",NAT GEO HD
+http://5gfksa.ltd:80/live/123456123/654321/42953.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD HD" tvg-logo="http://bl3rbe.net/up/yGJr2DRJ.png" group-title="INDIA ⭐️ الهند",NAT GEO WILD HD
+http://5gfksa.ltd:80/live/123456123/654321/42952.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD 1080" tvg-logo="http://bl3rbe.net/up/yGJr2DRJ.png" group-title="INDIA ⭐️ الهند",NAT GEO WILD 1080
+http://5gfksa.ltd:80/live/123456123/654321/505263.ts
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET HD" tvg-logo="http://bl3rbe.net/up/t0KRsGQp.png" group-title="INDIA ⭐️ الهند",ANIMAL PLANET HD
+http://5gfksa.ltd:80/live/123456123/654321/42957.ts
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HD" tvg-logo="http://bl3rbe.net/up/3aLBPNP.png" group-title="INDIA ⭐️ الهند",DISCOVERY HD
+http://5gfksa.ltd:80/live/123456123/654321/42954.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC ACTIVE MASALA" tvg-logo="http://bl3rbe.net/up/qGtmvfxzk.png" group-title="INDIA ⭐️ الهند",MUSIC ACTIVE MASALA
+http://5gfksa.ltd:80/live/123456123/654321/42955.ts
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY HD" tvg-logo="http://bl3rbe.net/up/9WtFVqhC1h.png" group-title="INDIA ⭐️ الهند",HISTORY HD
+http://5gfksa.ltd:80/live/123456123/654321/42956.ts
+#EXTINF:-1 tvg-id="" tvg-name="EPIC HD" tvg-logo="http://bl3rbe.net/up/TRf48sji.jpeg" group-title="INDIA ⭐️ الهند",EPIC HD
+http://5gfksa.ltd:80/live/123456123/654321/505265.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES HD" tvg-logo="http://bl3rbe.net/up/MhiUC4FqZ5.jpeg" group-title="INDIA ⭐️ الهند",B4U MOVIES HD
+http://5gfksa.ltd:80/live/123456123/654321/43145.ts
+#EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="http://bl3rbe.net/up/Ruf5zVK03DlU.jpeg" group-title="INDIA ⭐️ الهند",B4U KADAK
+http://5gfksa.ltd:80/live/123456123/654321/43147.ts
+#EXTINF:-1 tvg-id="" tvg-name="MATV NATIONAL" tvg-logo="http://bl3rbe.net/up/OXiXQ849u3W.jpeg" group-title="INDIA ⭐️ الهند",MATV NATIONAL
+http://5gfksa.ltd:80/live/123456123/654321/228834.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" tvg-logo="http://bl3rbe.net/up/izx3nBt.jpeg" group-title="INDIA ⭐️ الهند",ZOOM TV
+http://5gfksa.ltd:80/live/123456123/654321/228837.ts
+#EXTINF:-1 tvg-id="" tvg-name="9X MUSIC HD" tvg-logo="http://bl3rbe.net/up/Tkn3RFx.jpeg" group-title="INDIA ⭐️ الهند",9X MUSIC HD
+http://5gfksa.ltd:80/live/123456123/654321/228838.ts
+#EXTINF:-1 tvg-id="" tvg-name="& TV HD" tvg-logo="http://bl3rbe.net/up/dstqrRUt23rI.png" group-title="INDIA ⭐️ الهند",& TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42888.ts
+#EXTINF:-1 tvg-id="" tvg-name="& TV 1080" tvg-logo="http://bl3rbe.net/up/dstqrRUt23rI.png" group-title="INDIA ⭐️ الهند",& TV 1080
+http://5gfksa.ltd:80/live/123456123/654321/505261.ts
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA HD" tvg-logo="http://bl3rbe.net/up/lxxdfnbgSDUW.jpeg" group-title="INDIA ⭐️ الهند",9X JALWA HD
+http://5gfksa.ltd:80/live/123456123/654321/42894.ts
+#EXTINF:-1 tvg-id="" tvg-name="9XM HD" tvg-logo="http://bl3rbe.net/up/oVcXaziBOP.png" group-title="INDIA ⭐️ الهند",9XM HD
+http://5gfksa.ltd:80/live/123456123/654321/42895.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASTI TV HD" tvg-logo="http://bl3rbe.net/up/Ga7Yc9JXZ4.jpeg" group-title="INDIA ⭐️ الهند",MASTI TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42896.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV INDIA HD" tvg-logo="http://bl3rbe.net/up/IW5jEXUaq.png" group-title="INDIA ⭐️ الهند",MTV INDIA HD
+http://5gfksa.ltd:80/live/123456123/654321/42897.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZING TV HD" tvg-logo="http://bl3rbe.net/up/BUixGfPjOqr.png" group-title="INDIA ⭐️ الهند",ZING TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42900.ts
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA HD" tvg-logo="http://bl3rbe.net/up/PlbDxGHSnb.png" group-title="INDIA ⭐️ الهند",MUSIC INDIA HD
+http://5gfksa.ltd:80/live/123456123/654321/42901.ts
+#EXTINF:-1 tvg-id="" tvg-name="AASTHA TV HD" tvg-logo="http://bl3rbe.net/up/SoO5TZE.png" group-title="INDIA ⭐️ الهند",AASTHA TV HD
+http://5gfksa.ltd:80/live/123456123/654321/42902.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC WORLD HINDI" tvg-logo="http://bl3rbe.net/up/8uQ8jaqbQI.png" group-title="INDIA ⭐️ الهند",TLC WORLD HINDI
+http://5gfksa.ltd:80/live/123456123/654321/42937.ts
+#EXTINF:-1 tvg-id="" tvg-name="TLC WORLD HINDI 1080" tvg-logo="http://bl3rbe.net/up/8uQ8jaqbQI.png" group-title="INDIA ⭐️ الهند",TLC WORLD HINDI 1080
+http://5gfksa.ltd:80/live/123456123/654321/505262.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE HD" tvg-logo="http://bl3rbe.net/up/SVWuGnvr.png" group-title="INDIA ⭐️ الهند",ZEE CAFE HD
+http://5gfksa.ltd:80/live/123456123/654321/42945.ts
+#EXTINF:-1 tvg-id="" tvg-name="& FLIX HD" tvg-logo="http://bl3rbe.net/up/xfyylUGx.png" group-title="INDIA ⭐️ الهند",& FLIX HD
+http://5gfksa.ltd:80/live/123456123/654321/42946.ts
+#EXTINF:-1 tvg-id="" tvg-name="& PRIVE HD" tvg-logo="http://bl3rbe.net/up/jZPwfLOKbf.jpeg" group-title="INDIA ⭐️ الهند",& PRIVE HD
+http://5gfksa.ltd:80/live/123456123/654321/42947.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP HD" tvg-logo="http://bl3rbe.net/up/vywvxFAwPb.jpeg" group-title="INDIA ⭐️ الهند",TRAVEL XP HD
+http://5gfksa.ltd:80/live/123456123/654321/42959.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HINDI" tvg-logo="http://bl3rbe.net/up/z193Rg2mh8O.png" group-title="INDIA ⭐️ الهند",FOX LIFE HINDI
+http://5gfksa.ltd:80/live/123456123/654321/43159.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="http://bl3rbe.net/up/ROZnx4DG.jpeg" group-title="INDIA ⭐️ الهند",COLORS CINEPLEX HD
+http://5gfksa.ltd:80/live/123456123/654321/43167.ts
+#EXTINF:-1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="http://bl3rbe.net/up/73b2vrec8z4.jpeg" group-title="INDIA ⭐️ الهند",MTV BEATS HD
+http://5gfksa.ltd:80/live/123456123/654321/46906.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI" tvg-logo="http://bl3rbe.net/up/sasEQYD.jpeg" group-title="INDIA PUNJABI ⭐️ الهند",PTC PUNJABI
+http://5gfksa.ltd:80/live/123456123/654321/505235.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIKH TV UK" tvg-logo="http://bl3rbe.net/up/pltFtTFLa.png" group-title="INDIA PUNJABI ⭐️ الهند",SIKH TV UK
+http://5gfksa.ltd:80/live/123456123/654321/505233.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC NEWS" tvg-logo="http://bl3rbe.net/up/cCCudvQTZ.png" group-title="INDIA PUNJABI ⭐️ الهند",PTC NEWS
+http://5gfksa.ltd:80/live/123456123/654321/505234.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC CHAKDE TV" tvg-logo="http://bl3rbe.net/up/iGvTKpiJ0NJf.png" group-title="INDIA PUNJABI ⭐️ الهند",PTC CHAKDE TV
+http://5gfksa.ltd:80/live/123456123/654321/505232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC PUNJABI GOLD" tvg-logo="http://bl3rbe.net/up/qR5Zhh5K3Nf.png" group-title="INDIA PUNJABI ⭐️ الهند",PTC PUNJABI GOLD
+http://5gfksa.ltd:80/live/123456123/654321/505236.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTC SIMRAN" tvg-logo="http://bl3rbe.net/up/q2jVCxI.png" group-title="INDIA PUNJABI ⭐️ الهند",PTC SIMRAN
+http://5gfksa.ltd:80/live/123456123/654321/505237.ts
+#EXTINF:-1 tvg-id="" tvg-name="FAST WAY NEWS" tvg-logo="http://bl3rbe.net/up/iOhBqUjjTj39.jpeg" group-title="INDIA PUNJABI ⭐️ الهند",FAST WAY NEWS
+http://5gfksa.ltd:80/live/123456123/654321/505225.ts
+#EXTINF:-1 tvg-id="" tvg-name="5AAB TV" tvg-logo="http://bl3rbe.net/up/ygcRyr6.png" group-title="INDIA PUNJABI ⭐️ الهند",5AAB TV
+http://5gfksa.ltd:80/live/123456123/654321/505226.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC TORONTO GAUNDA PUNJAB" tvg-logo="http://bl3rbe.net/up/cq2qYUc.png" group-title="INDIA PUNJABI ⭐️ الهند",BBC TORONTO GAUNDA PUNJAB
+http://5gfksa.ltd:80/live/123456123/654321/505227.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE PUNJABI" tvg-logo="http://bl3rbe.net/up/ecPQJ0EsaxRH.png" group-title="INDIA PUNJABI ⭐️ الهند",ZEE PUNJABI
+http://5gfksa.ltd:80/live/123456123/654321/505228.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRIT ASIA" tvg-logo="http://bl3rbe.net/up/ylQqdg0Qqs.png" group-title="INDIA PUNJABI ⭐️ الهند",BRIT ASIA
+http://5gfksa.ltd:80/live/123456123/654321/505229.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD PUNJABI" tvg-logo="http://bl3rbe.net/up/2mDtKGui.jpeg" group-title="INDIA PUNJABI ⭐️ الهند",DD PUNJABI
+http://5gfksa.ltd:80/live/123456123/654321/505230.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENTERR 10" tvg-logo="http://bl3rbe.net/up/Dj9XsUadWek4.png" group-title="INDIA ⭐️ الهند",ENTERR 10
+http://5gfksa.ltd:80/live/123456123/654321/505244.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR UTSAV" tvg-logo="http://bl3rbe.net/up/G0vI4tdL.png" group-title="INDIA ⭐️ الهند",STAR UTSAV
+http://5gfksa.ltd:80/live/123456123/654321/505245.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="http://bl3rbe.net/up/WtMhVTz.jpeg" group-title="INDIA ⭐️ الهند",BIG MAGIC
+http://5gfksa.ltd:80/live/123456123/654321/505246.ts
+#EXTINF:-1 tvg-id="" tvg-name="DD NATIONAL HD" tvg-logo="http://bl3rbe.net/up/ZjtLqp5HhM40.png" group-title="INDIA ⭐️ الهند",DD NATIONAL HD
+http://5gfksa.ltd:80/live/123456123/654321/505247.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH HD" tvg-logo="http://bl3rbe.net/up/dKqmBgx.jpeg" group-title="INDIA ⭐️ الهند",BBC EARTH HD
+http://5gfksa.ltd:80/live/123456123/654321/505248.ts
+#EXTINF:-1 tvg-id="" tvg-name="DANGAL TV" tvg-logo="http://bl3rbe.net/up/TyqH5haLxY.png" group-title="INDIA ⭐️ الهند",DANGAL TV
+http://5gfksa.ltd:80/live/123456123/654321/505249.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BOLLYWOOD" tvg-logo="http://bl3rbe.net/up/M8QNfJz6rigg.png" group-title="INDIA ⭐️ الهند",ZEE BOLLYWOOD
+http://5gfksa.ltd:80/live/123456123/654321/505250.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD 2" tvg-logo="http://bl3rbe.net/up/CDkXEhrW.png" group-title="INDIA ⭐️ الهند",STAR GOLD 2
+http://5gfksa.ltd:80/live/123456123/654321/505251.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY PIX HD" tvg-logo="http://bl3rbe.net/up/RwBb7VBzci.png" group-title="INDIA ⭐️ الهند",SONY PIX HD
+http://5gfksa.ltd:80/live/123456123/654321/505252.ts
+#EXTINF:-1 tvg-id="" tvg-name="AKAAL CHANNEL" tvg-logo="http://bl3rbe.net/up/z4wiRmSB.jpeg" group-title="INDIA PUNJABI ⭐️ الهند",AKAAL CHANNEL
+http://5gfksa.ltd:80/live/123456123/654321/511440.ts
+#EXTINF:-1 tvg-id="" tvg-name="NAAMDHARI TV" tvg-logo="http://bl3rbe.net/up/ssA5trK.png" group-title="INDIA PUNJABI ⭐️ الهند",NAAMDHARI TV
+http://5gfksa.ltd:80/live/123456123/654321/511441.ts
+#EXTINF:-1 tvg-id="" tvg-name="KANSHI TV" tvg-logo="http://bl3rbe.net/up/mfCWumGWb.png" group-title="INDIA PUNJABI ⭐️ الهند",KANSHI TV
+http://5gfksa.ltd:80/live/123456123/654321/511442.ts
+#EXTINF:-1 tvg-id="" tvg-name="GURBANI TV" tvg-logo="http://bl3rbe.net/up/R3s3CXw6Re.png" group-title="INDIA PUNJABI ⭐️ الهند",GURBANI TV
+http://5gfksa.ltd:80/live/123456123/654321/511443.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE HAREYNA" tvg-logo="http://bl3rbe.net/up/Dj9UmnpfoZjo.png" group-title="INDIA PUNJABI ⭐️ الهند",ZEE HAREYNA
+http://5gfksa.ltd:80/live/123456123/654321/511444.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL Y" tvg-logo="http://bl3rbe.net/up/euTzb9QClc.png" group-title="INDIA PUNJABI ⭐️ الهند",CHANNEL Y
+http://5gfksa.ltd:80/live/123456123/654321/511445.ts
+#EXTINF:-1 tvg-id="" tvg-name="HULCHUL TV" tvg-logo="http://bl3rbe.net/up/d9tC6WgaJTD.jpeg" group-title="INDIA PUNJABI ⭐️ الهند",HULCHUL TV
+http://5gfksa.ltd:80/live/123456123/654321/511446.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" group-title="INDIA ⭐️ الهند",Disney Channel
+http://5gfksa.ltd:80/live/123456123/654321/512673.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Gazi TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Gazi TV
+http://5gfksa.ltd:80/live/123456123/654321/506054.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: AKAASH BANGLA" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: AKAASH BANGLA
+http://5gfksa.ltd:80/live/123456123/654321/500022.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: CHANNEL 9" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: CHANNEL 9
+http://5gfksa.ltd:80/live/123456123/654321/500030.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: COLORS BANGLA" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: COLORS BANGLA
+http://5gfksa.ltd:80/live/123456123/654321/500034.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Somoy News TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Somoy News TV
+http://5gfksa.ltd:80/live/123456123/654321/500052.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: SA TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: SA TV
+http://5gfksa.ltd:80/live/123456123/654321/500053.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: NTV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: NTV
+http://5gfksa.ltd:80/live/123456123/654321/500054.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: STAR JALSHA 1080P" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: STAR JALSHA 1080P
+http://5gfksa.ltd:80/live/123456123/654321/500055.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: News 24" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: News 24
+http://5gfksa.ltd:80/live/123456123/654321/500056.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Nandan TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Nandan TV
+http://5gfksa.ltd:80/live/123456123/654321/500057.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Mohona TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Mohona TV
+http://5gfksa.ltd:80/live/123456123/654321/500058.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Millennium TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Millennium TV
+http://5gfksa.ltd:80/live/123456123/654321/500059.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Jhankar" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Jhankar
+http://5gfksa.ltd:80/live/123456123/654321/505563.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Jamuna TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Jamuna TV
+http://5gfksa.ltd:80/live/123456123/654321/505564.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Iqra Bangla" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Iqra Bangla
+http://5gfksa.ltd:80/live/123456123/654321/505565.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Gaan Bangla" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Gaan Bangla
+http://5gfksa.ltd:80/live/123456123/654321/505566.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Ekushey TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Ekushey TV
+http://5gfksa.ltd:80/live/123456123/654321/505567.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Deshe Bideshe TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Deshe Bideshe TV
+http://5gfksa.ltd:80/live/123456123/654321/505568.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Desh TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Desh TV
+http://5gfksa.ltd:80/live/123456123/654321/505569.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: DD Bangla" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: DD Bangla
+http://5gfksa.ltd:80/live/123456123/654321/505570.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: DBC News" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: DBC News
+http://5gfksa.ltd:80/live/123456123/654321/505571.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel S" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Channel S
+http://5gfksa.ltd:80/live/123456123/654321/505572.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 24" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Channel 24
+http://5gfksa.ltd:80/live/123456123/654321/505573.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 9" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Channel 9
+http://5gfksa.ltd:80/live/123456123/654321/505574.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Boishakhi TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Boishakhi TV
+http://5gfksa.ltd:80/live/123456123/654321/505575.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla Vision" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Bangla Vision
+http://5gfksa.ltd:80/live/123456123/654321/505576.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Bangla TV
+http://5gfksa.ltd:80/live/123456123/654321/505577.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN News" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: ATN News
+http://5gfksa.ltd:80/live/123456123/654321/505578.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla UK" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: ATN Bangla UK
+http://5gfksa.ltd:80/live/123456123/654321/505579.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: ATN Bangla
+http://5gfksa.ltd:80/live/123456123/654321/505580.ts
+#EXTINF:-1 tvg-id="" tvg-name="BD: Asian TV" tvg-logo="http://bl3rbe.net/up/3ZHdkdVs.png" group-title="Bangladesh ⭐️ بنجلاديش",BD: Asian TV
+http://5gfksa.ltd:80/live/123456123/654321/505581.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN TV HD" tvg-logo="http://bl3rbe.net/up/bIxvuhTt.png" group-title="Tamil ⭐️ الهند",SUN TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135203.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR VIJAY HD" tvg-logo="http://bl3rbe.net/up/Y3qZM6co4Q.png" group-title="Tamil ⭐️ الهند",STAR VIJAY HD
+http://5gfksa.ltd:80/live/123456123/654321/135199.ts
+#EXTINF:-1 tvg-id="" tvg-name="COLORS TAMIL HD" tvg-logo="http://bl3rbe.net/up/WCziswVo.png" group-title="Tamil ⭐️ الهند",COLORS TAMIL HD
+http://5gfksa.ltd:80/live/123456123/654321/135197.ts
+#EXTINF:-1 tvg-id="" tvg-name="KTV TAMIL HD" tvg-logo="http://bl3rbe.net/up/Qkl4sdi.png" group-title="Tamil ⭐️ الهند",KTV TAMIL HD
+http://5gfksa.ltd:80/live/123456123/654321/135195.ts
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TAMIL HD" tvg-logo="http://bl3rbe.net/up/qGdIaCS7.png" group-title="Tamil ⭐️ الهند",ZEE TAMIL HD
+http://5gfksa.ltd:80/live/123456123/654321/135192.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA TV HD" tvg-logo="http://bl3rbe.net/up/LS5iuhVPg5.png" group-title="Tamil ⭐️ الهند",JAYA TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135190.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA MOVIES HD" tvg-logo="http://bl3rbe.net/up/yHzN5me.png" group-title="Tamil ⭐️ الهند",JAYA MOVIES HD
+http://5gfksa.ltd:80/live/123456123/654321/135189.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAYA MAX HD" tvg-logo="http://bl3rbe.net/up/64Kcj2j.png" group-title="Tamil ⭐️ الهند",JAYA MAX HD
+http://5gfksa.ltd:80/live/123456123/654321/135188.ts
+#EXTINF:-1 tvg-id="" tvg-name="KALAIGNER TV HD" tvg-logo="http://bl3rbe.net/up/qQxIZngkY.jpeg" group-title="Tamil ⭐️ الهند",KALAIGNER TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135186.ts
+#EXTINF:-1 tvg-id="" tvg-name="CAPTAIN NEWS HD" tvg-logo="http://bl3rbe.net/up/jfKBjQ7S76.png" group-title="Tamil ⭐️ الهند",CAPTAIN NEWS HD
+http://5gfksa.ltd:80/live/123456123/654321/135185.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAJ TV HD" tvg-logo="http://bl3rbe.net/up/nXictjBqz.png" group-title="Tamil ⭐️ الهند",RAJ TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135184.ts
+#EXTINF:-1 tvg-id="" tvg-name="VENDHER TV HD" tvg-logo="http://bl3rbe.net/up/g3VduI1Vm.png" group-title="Tamil ⭐️ الهند",VENDHER TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135183.ts
+#EXTINF:-1 tvg-id="" tvg-name="ADITHIYA TV HD" tvg-logo="http://bl3rbe.net/up/73iEeZ5jEjCf.jpeg" group-title="Tamil ⭐️ الهند",ADITHIYA TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135181.ts
+#EXTINF:-1 tvg-id="" tvg-name="SIRIPPOLI HD" tvg-logo="http://bl3rbe.net/up/S0skUEwfP5E.png" group-title="Tamil ⭐️ الهند",SIRIPPOLI HD
+http://5gfksa.ltd:80/live/123456123/654321/135180.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN MUSIC HD" tvg-logo="http://bl3rbe.net/up/cqVuk8q8zKNU.png" group-title="Tamil ⭐️ الهند",SUN MUSIC HD
+http://5gfksa.ltd:80/live/123456123/654321/135176.ts
+#EXTINF:-1 tvg-id="" tvg-name="ISAIARUVI HD" tvg-logo="http://bl3rbe.net/up/jTaLv8oxhg.png" group-title="Tamil ⭐️ الهند",ISAIARUVI HD
+http://5gfksa.ltd:80/live/123456123/654321/135175.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN NEWS HD" tvg-logo="http://bl3rbe.net/up/B3NIlAf.png" group-title="Tamil ⭐️ الهند",SUN NEWS HD
+http://5gfksa.ltd:80/live/123456123/654321/135174.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER NEWS HD" tvg-logo="http://bl3rbe.net/up/7WrN42pYe8Ik.png" group-title="Tamil ⭐️ الهند",POLIMER NEWS HD
+http://5gfksa.ltd:80/live/123456123/654321/135172.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIJAY SUPER HD" tvg-logo="http://bl3rbe.net/up/qi8a3kXllMDc.png" group-title="Tamil ⭐️ الهند",VIJAY SUPER HD
+http://5gfksa.ltd:80/live/123456123/654321/135149.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUN LIFE HD" tvg-logo="http://bl3rbe.net/up/dxPM4iE9.png" group-title="Tamil ⭐️ الهند",SUN LIFE HD
+http://5gfksa.ltd:80/live/123456123/654321/135148.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAL MURASU HD" tvg-logo="http://bl3rbe.net/up/Xv8OPJE.png" group-title="Tamil ⭐️ الهند",MAL MURASU HD
+http://5gfksa.ltd:80/live/123456123/654321/135146.ts
+#EXTINF:-1 tvg-id="" tvg-name="SRI SANKARA TV HD" tvg-logo="http://bl3rbe.net/up/2qNTI4i.png" group-title="Tamil ⭐️ الهند",SRI SANKARA TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135140.ts
+#EXTINF:-1 tvg-id="" tvg-name="SEITHIGAL TV HD" tvg-logo="http://bl3rbe.net/up/dF6ab3l.png" group-title="Tamil ⭐️ الهند",SEITHIGAL TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135138.ts
+#EXTINF:-1 tvg-id="" tvg-name="IBC MUSIC HD" tvg-logo="http://bl3rbe.net/up/IzF2N6LECct.jpeg" group-title="Tamil ⭐️ الهند",IBC MUSIC HD
+http://5gfksa.ltd:80/live/123456123/654321/135132.ts
+#EXTINF:-1 tvg-id="" tvg-name="MADHA TV HD" tvg-logo="http://bl3rbe.net/up/Lb7Hkr9.png" group-title="Tamil ⭐️ الهند",MADHA TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135139.ts
+#EXTINF:-1 tvg-id="" tvg-name="WIN NEWS HD" tvg-logo="http://bl3rbe.net/up/EpXRXSSopjWx.png" group-title="Tamil ⭐️ الهند",WIN NEWS HD
+http://5gfksa.ltd:80/live/123456123/654321/135141.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAL TV HD" tvg-logo="http://bl3rbe.net/up/wWH2buxWhu7.png" group-title="Tamil ⭐️ الهند",MAKKAL TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135145.ts
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER TV HD" tvg-logo="http://bl3rbe.net/up/22HGTs9.png" group-title="Tamil ⭐️ الهند",POLIMER TV HD
+http://5gfksa.ltd:80/live/123456123/654321/135157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PEPPERS TAMIL HD" tvg-logo="http://bl3rbe.net/up/OEKHjL2aPRJ.png" group-title="Tamil ⭐️ الهند",PEPPERS TAMIL HD
+http://5gfksa.ltd:80/live/123456123/654321/135161.ts
+#EXTINF:-1 tvg-id="" tvg-name="A SPORTS" tvg-logo="http://bl3rbe.net/up/P7jLwShDHGD.png" group-title="Cricket ⭐️",A SPORTS
+http://5gfksa.ltd:80/live/123456123/654321/220956.ts
+#EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS" tvg-logo="http://bl3rbe.net/up/D5JoNVcLU81.png" group-title="Cricket ⭐️",PTV SPORTS
+http://5gfksa.ltd:80/live/123456123/654321/220957.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1" tvg-logo="http://bl3rbe.net/up/ejZ48AG.png" group-title="Cricket ⭐️",STAR SPORTS 1
+http://5gfksa.ltd:80/live/123456123/654321/220962.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 1 1080" tvg-logo="http://bl3rbe.net/up/ejZ48AG.png" group-title="Cricket ⭐️",STAR SPORTS 1 1080
+http://5gfksa.ltd:80/live/123456123/654321/505239.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 " tvg-logo="http://bl3rbe.net/up/mpgfPu9iaUYT.png" group-title="Cricket ⭐️",STAR SPORTS 2 
+http://5gfksa.ltd:80/live/123456123/654321/220963.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 2 1080" tvg-logo="http://bl3rbe.net/up/mpgfPu9iaUYT.png" group-title="Cricket ⭐️",STAR SPORTS 2 1080
+http://5gfksa.ltd:80/live/123456123/654321/505241.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS 3" tvg-logo="http://bl3rbe.net/up/UiP9woX.png" group-title="Cricket ⭐️",STAR SPORTS 3
+http://5gfksa.ltd:80/live/123456123/654321/505242.ts
+#EXTINF:-1 tvg-id="" tvg-name="TEN SPORTS" tvg-logo="http://bl3rbe.net/up/SGK0XFf3B2gR.png" group-title="Cricket ⭐️",TEN SPORTS
+http://5gfksa.ltd:80/live/123456123/654321/220958.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP ➤ T SPORTS BANGLA" tvg-logo="http://bl3rbe.net/up/4yfQZQ2Q.png" group-title="Cricket ⭐️",SP ➤ T SPORTS BANGLA
+http://5gfksa.ltd:80/live/123456123/654321/220960.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS TAMIL 1" tvg-logo="http://bl3rbe.net/up/M7dWPBnXub.png" group-title="Cricket ⭐️",STAR SPORTS TAMIL 1
+http://5gfksa.ltd:80/live/123456123/654321/225338.ts
+#EXTINF:-1 tvg-id="" tvg-name="Willow Cricket" tvg-logo="http://bl3rbe.net/up/Ck5Lmh6.jpeg" group-title="Cricket ⭐️",Willow Cricket
+http://5gfksa.ltd:80/live/123456123/654321/212352.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY CRICKET" tvg-logo="http://bl3rbe.net/up/7YnETHxtq2.jpeg" group-title="Cricket ⭐️",SKY CRICKET
+http://5gfksa.ltd:80/live/123456123/654321/221019.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sports Cricket" tvg-logo="http://bl3rbe.net/up/QW2dIdK.png" group-title="Cricket ⭐️",Super Sports Cricket
+http://5gfksa.ltd:80/live/123456123/654321/212351.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS HINDI" tvg-logo="http://bl3rbe.net/up/rabq1NbO.jpeg" group-title="Cricket ⭐️",STAR SPORTS HINDI
+http://5gfksa.ltd:80/live/123456123/654321/220961.ts
+#EXTINF:-1 tvg-id="" tvg-name="GEO SUPER" tvg-logo="http://bl3rbe.net/up/mHrannMSFg.png" group-title="Cricket ⭐️",GEO SUPER
+http://5gfksa.ltd:80/live/123456123/654321/220959.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 1" tvg-logo="http://bl3rbe.net/up/GkMOh50caT.png" group-title="Cricket ⭐️",STAR SPORTS SELECT 1
+http://5gfksa.ltd:80/live/123456123/654321/505243.ts
+#EXTINF:-1 tvg-id="" tvg-name="STAR SPORTS SELECT 2" tvg-logo="http://bl3rbe.net/up/Y9kQOPIfl.png" group-title="Cricket ⭐️",STAR SPORTS SELECT 2
+http://5gfksa.ltd:80/live/123456123/654321/41907.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY SIX" tvg-logo="http://bl3rbe.net/up/T0zUk9maem2.png" group-title="Cricket ⭐️",SONY SIX
+http://5gfksa.ltd:80/live/123456123/654321/41911.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://bl3rbe.net/up/19HWpUwo9bcH.png" group-title="Cricket ⭐️",SKY SPORTS CRICKET HD
+http://5gfksa.ltd:80/live/123456123/654321/41910.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://bl3rbe.net/up/WhJkwC3vUNtW.png" group-title="Cricket ⭐️",SONY TEN 2
+http://5gfksa.ltd:80/live/123456123/654321/41909.ts
+#EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://bl3rbe.net/up/yK6VxIry.png" group-title="Cricket ⭐️",SONY TEN 1
+http://5gfksa.ltd:80/live/123456123/654321/41908.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1" tvg-logo="" group-title="Cricket ⭐️",TNT Sports 1
+http://5gfksa.ltd:80/live/123456123/654321/515220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Criclife 1" tvg-logo="" group-title="Cricket ⭐️",Criclife 1
+http://5gfksa.ltd:80/live/123456123/654321/516892.ts
+#EXTINF:-1 tvg-id="" tvg-name="Criclife 2" tvg-logo="" group-title="Cricket ⭐️",Criclife 2
+http://5gfksa.ltd:80/live/123456123/654321/516893.ts
+#EXTINF:-1 tvg-id="" tvg-name="Criclife 3" tvg-logo="" group-title="Cricket ⭐️",Criclife 3
+http://5gfksa.ltd:80/live/123456123/654321/516894.ts
+
