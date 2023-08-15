@@ -1,961 +1,147 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| COLORS BANGLA HD" tvg-logo="" group-title="BANGLA",|BENGALI| COLORS BANGLA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2953
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| NAT GEO HD" tvg-logo="" group-title="BANGLA",|BENGALI| NAT GEO HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2952
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| SANGEET BANGLA" tvg-logo="" group-title="BANGLA",|BENGALI| SANGEET BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2951
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| STAR JALSHA HD" tvg-logo="" group-title="BANGLA",|BENGALI| STAR JALSHA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2950
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| STAR JALSHA MOVIES HD" tvg-logo="" group-title="BANGLA",|BENGALI| STAR JALSHA MOVIES HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2949
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| TATA SKY BANGLA HD" tvg-logo="" group-title="BANGLA",|BENGALI| TATA SKY BANGLA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2948
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| DD BANGLA" tvg-logo="" group-title="BANGLA",|BENGALI| DD BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2947
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| 24 GHANTA" tvg-logo="" group-title="BANGLA",|BENGALI| 24 GHANTA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2944
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| ABP ANANDA" tvg-logo="" group-title="BANGLA",|BENGALI| ABP ANANDA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2943
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| ZEE BANGLA CINEMA" tvg-logo="" group-title="BANGLA",|BENGALI| ZEE BANGLA CINEMA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2945
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| ZEE BANGLA HD" tvg-logo="" group-title="BANGLA",|BENGALI| ZEE BANGLA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2941
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA-UK| CHANNEL S" tvg-logo="" group-title="BANGLA",|BANGLA-UK| CHANNEL S
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4726
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA-UK| TV UK" tvg-logo="" group-title="BANGLA",|BANGLA-UK| TV UK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4725
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA-UK| NTV" tvg-logo="" group-title="BANGLA",|BANGLA-UK| NTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4724
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA-UK| ATN BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA-UK| ATN BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4723
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA-UK| ION TV" tvg-logo="" group-title="BANGLA",|BANGLA-UK| ION TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4721
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA-UK| TV ONE" tvg-logo="" group-title="BANGLA",|BANGLA-UK| TV ONE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4720
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| COLORS BANGLA HD" tvg-logo="" group-title="BANGLA",|BANGLA| COLORS BANGLA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4718
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ZEE 24 GHANTA" tvg-logo="" group-title="BANGLA",|BANGLA| ZEE 24 GHANTA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4717
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| JALSHA MOVIES" tvg-logo="" group-title="BANGLA",|BANGLA| JALSHA MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4716
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| STAR JALSHA" tvg-logo="" group-title="BANGLA",|BANGLA| STAR JALSHA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4715
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| AAKAASH BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| AAKAASH BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4714
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NAGORIK TV" tvg-logo="" group-title="BANGLA",|BANGLA| NAGORIK TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4712
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ABP ANANDA" tvg-logo="" group-title="BANGLA",|BANGLA| ABP ANANDA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4711
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ATN BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| ATN BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4709
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ATN NEWS" tvg-logo="" group-title="BANGLA",|BANGLA| ATN NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4707
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BANGLA ETV" tvg-logo="" group-title="BANGLA",|BANGLA| BANGLA ETV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4706
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BIJOY TV" tvg-logo="" group-title="BANGLA",|BANGLA| BIJOY TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4702
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ATN ISLAMIC TV" tvg-logo="" group-title="BANGLA",|BANGLA| ATN ISLAMIC TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4701
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BOISHAKHI TV" tvg-logo="" group-title="BANGLA",|BANGLA| BOISHAKHI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4700
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BTV WORLD" tvg-logo="" group-title="BANGLA",|BANGLA| BTV WORLD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4699
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BTV" tvg-logo="" group-title="BANGLA",|BANGLA| BTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4698
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| CHANNEL 9" tvg-logo="" group-title="BANGLA",|BANGLA| CHANNEL 9
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4696
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| CHANNEL I" tvg-logo="" group-title="BANGLA",|BANGLA| CHANNEL I
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4694
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| CHANNEL S" tvg-logo="" group-title="BANGLA",|BANGLA| CHANNEL S
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4693
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| COLORS BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| COLORS BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4692
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DBC NEWS" tvg-logo="" group-title="BANGLA",|BANGLA| DBC NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4691
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DD BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| DD BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4690
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DESH TV" tvg-logo="" group-title="BANGLA",|BANGLA| DESH TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4689
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DESHE BIDESHE TV" tvg-logo="" group-title="BANGLA",|BANGLA| DESHE BIDESHE TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4688
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DESHI TV" tvg-logo="" group-title="BANGLA",|BANGLA| DESHI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4687
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DHOOM MUSIC" tvg-logo="" group-title="BANGLA",|BANGLA| DHOOM MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4686
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| EKATTOR TV" tvg-logo="" group-title="BANGLA",|BANGLA| EKATTOR TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4684
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ETV BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| ETV BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4683
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| GAAN BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| GAAN BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4681
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| INDEPENDENT TV" tvg-logo="" group-title="BANGLA",|BANGLA| INDEPENDENT TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4680
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| iTV" tvg-logo="" group-title="BANGLA",|BANGLA| iTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4679
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| MASRANGA TV" tvg-logo="" group-title="BANGLA",|BANGLA| MASRANGA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4678
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| MILLENNIUM TV" tvg-logo="" group-title="BANGLA",|BANGLA| MILLENNIUM TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4677
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| MOHONA TV" tvg-logo="" group-title="BANGLA",|BANGLA| MOHONA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4676
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| MOVIE BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| MOVIE BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4675
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NEWS TIME" tvg-logo="" group-title="BANGLA",|BANGLA| NEWS TIME
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4672
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NRB TV" tvg-logo="" group-title="BANGLA",|BANGLA| NRB TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4671
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NTV" tvg-logo="" group-title="BANGLA",|BANGLA| NTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4670
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| RTV" tvg-logo="" group-title="BANGLA",|BANGLA| RTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4667
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| RUPOSHI BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| RUPOSHI BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4666
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| SANGEET BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| SANGEET BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4665
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| SATV" tvg-logo="" group-title="BANGLA",|BANGLA| SATV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4664
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| KTV BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| KTV BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4663
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| SOMOY NEWS TV" tvg-logo="" group-title="BANGLA",|BANGLA| SOMOY NEWS TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4662
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| SONY AATH" tvg-logo="" group-title="BANGLA",|BANGLA| SONY AATH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4661
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| STAR JHALSA MOVIES" tvg-logo="" group-title="BANGLA",|BANGLA| STAR JHALSA MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4660
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BONGO MOVIES" tvg-logo="" group-title="BANGLA",|BANGLA| BONGO MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4658
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| TIME TELEVISION" tvg-logo="" group-title="BANGLA",|BANGLA| TIME TELEVISION
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4657
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| TV ASIA" tvg-logo="" group-title="BANGLA",|BANGLA| TV ASIA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4656
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ZEE BANGLA CINEMA" tvg-logo="" group-title="BANGLA",|BANGLA| ZEE BANGLA CINEMA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4655
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ATN BANGLA USA" tvg-logo="" group-title="BANGLA",|BANGLA| ATN BANGLA USA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4654
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DEEPTO TV HD" tvg-logo="" group-title="BANGLA",|BANGLA| DEEPTO TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4653
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NEWS 24 HD" tvg-logo="" group-title="BANGLA",|BANGLA| NEWS 24 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4651
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ZEE BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| ZEE BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4650
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| JAMUNA TV" tvg-logo="" group-title="BANGLA",|BANGLA| JAMUNA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4647
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| RTV MUSIC" tvg-logo="" group-title="BANGLA",|BANGLA| RTV MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4646
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ZEE BANGLA HD" tvg-logo="" group-title="BANGLA",|BANGLA| ZEE BANGLA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4641
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| JONMOBHUMI TV" tvg-logo="" group-title="BANGLA",|BANGLA| JONMOBHUMI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4637
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| MADANI TV BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| MADANI TV BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4636
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| STAR JALSHA HD" tvg-logo="" group-title="BANGLA",|BANGLA| STAR JALSHA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4634
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NANDAN TV HD" tvg-logo="" group-title="BANGLA",|BANGLA| NANDAN TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4628
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ROAL TV" tvg-logo="" group-title="BANGLA",|BANGLA| ROAL TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4625
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ANANDA TV" tvg-logo="" group-title="BANGLA",|BANGLA| ANANDA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4624
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| JHANKAR TV" tvg-logo="" group-title="BANGLA",|BANGLA| JHANKAR TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4622
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| BINODON BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| BINODON BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4621
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| MUSIC FATAFATI" tvg-logo="" group-title="BANGLA",|BANGLA| MUSIC FATAFATI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4618
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| NAN TV" tvg-logo="" group-title="BANGLA",|BANGLA| NAN TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4613
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| FAMILY TV" tvg-logo="" group-title="BANGLA",|BANGLA| FAMILY TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4612
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ONKAR ONLY TRUTH" tvg-logo="" group-title="BANGLA",|BANGLA| ONKAR ONLY TRUTH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4608
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| DISCOVERY HD BENGALI" tvg-logo="" group-title="BANGLA",|BANGLA| DISCOVERY HD BENGALI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4602
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| SUN BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| SUN BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4601
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| TBN 24" tvg-logo="" group-title="BANGLA",|BANGLA| TBN 24
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4599
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| iTV UK" tvg-logo="" group-title="BANGLA",|BANGLA| iTV UK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4598
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ENTER 10 BANGLA" tvg-logo="" group-title="BANGLA",|BANGLA| ENTER 10 BANGLA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4594
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| CHANNEL TT" tvg-logo="" group-title="BANGLA",|BANGLA| CHANNEL TT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/4593
-#EXTINF:-1 tvg-id="ext" tvg-name="|BENGALI| CTVN AKD PLUS SD" tvg-logo="" group-title="BANGLA",|BENGALI| CTVN AKD PLUS SD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/432340
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| Bnagla channel" tvg-logo="" group-title="BANGLA",|BANGLA| Bnagla channel
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/435530
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| Meemtv" tvg-logo="" group-title="BANGLA",|BANGLA| Meemtv
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/435529
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| ABtv" tvg-logo="" group-title="BANGLA",|BANGLA| ABtv
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/435528
-#EXTINF:-1 tvg-id="ext" tvg-name="|BANGLA| IBtv" tvg-logo="" group-title="BANGLA",|BANGLA| IBtv
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/435527
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE ACTION" tvg-logo="" group-title="HINDI",|HINDI| ZEE ACTION
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3153
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE TV HD" tvg-logo="" group-title="HINDI",|HINDI| ZEE TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3152
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE CINEMA HD" tvg-logo="" group-title="HINDI",|HINDI| ZEE CINEMA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3151
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZING" tvg-logo="" group-title="HINDI",|HINDI| ZING
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3150
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR BHARAT HD" tvg-logo="" group-title="HINDI",|HINDI| STAR BHARAT HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3149
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR GOLD HD" tvg-logo="" group-title="HINDI",|HINDI| STAR GOLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3148
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR GOLD SELECT HD" tvg-logo="" group-title="HINDI",|HINDI| STAR GOLD SELECT HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3147
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR PLUS HD" tvg-logo="" group-title="HINDI",|HINDI| STAR PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3146
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR UTSAV" tvg-logo="" group-title="HINDI",|HINDI| STAR UTSAV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3145
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR UTSAV MOVIES" tvg-logo="" group-title="HINDI",|HINDI| STAR UTSAV MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3144
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY HD" tvg-logo="" group-title="HINDI",|HINDI| SONY HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3143
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY MAX HD" tvg-logo="" group-title="HINDI",|HINDI| SONY MAX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3142
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY MAX 2" tvg-logo="" group-title="HINDI",|HINDI| SONY MAX 2
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3141
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY PIX HD" tvg-logo="" group-title="HINDI",|HINDI| SONY PIX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3140
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY BBC EARTH HD" tvg-logo="" group-title="HINDI",|HINDI| SONY BBC EARTH HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3139
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY SAB HD" tvg-logo="" group-title="HINDI",|HINDI| SONY SAB HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3138
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY PAL" tvg-logo="" group-title="HINDI",|HINDI| SONY PAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3137
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY WAH" tvg-logo="" group-title="HINDI",|HINDI| SONY WAH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3136
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SONY YAY" tvg-logo="" group-title="HINDI",|HINDI| SONY YAY
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3135
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| B4U MOVIES" tvg-logo="" group-title="HINDI",|HINDI| B4U MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3133
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| COLORS HD" tvg-logo="" group-title="HINDI",|HINDI| COLORS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3132
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| 9X JALWA" tvg-logo="" group-title="HINDI",|HINDI| 9X JALWA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3131
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AAJ TAK HD" tvg-logo="" group-title="HINDI",|HINDI| AAJ TAK HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3130
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AAJ TAK TEZ" tvg-logo="" group-title="HINDI",|HINDI| AAJ TAK TEZ
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3129
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AASTHA" tvg-logo="" group-title="HINDI",|HINDI| AASTHA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3127
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AASTHA BHAJAN" tvg-logo="" group-title="HINDI",|HINDI| AASTHA BHAJAN
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3126
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ABP NEWS INDIA" tvg-logo="" group-title="HINDI",|HINDI| ABP NEWS INDIA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3125
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AND PICTURES HD" tvg-logo="" group-title="HINDI",|HINDI| AND PICTURES HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3124
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AND TV HD" tvg-logo="" group-title="HINDI",|HINDI| AND TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3123
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ANIMAL PLANET HD" tvg-logo="" group-title="HINDI",|HINDI| ANIMAL PLANET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3122
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ARIHANT" tvg-logo="" group-title="HINDI",|HINDI| ARIHANT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3121
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| POP KIDS THE DALTONS" tvg-logo="" group-title="HINDI",|HINDI| POP KIDS THE DALTONS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/200209
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| POP KIDS OGGY" tvg-logo="" group-title="HINDI",|HINDI| POP KIDS OGGY
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/230863
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| BABY TV HD" tvg-logo="" group-title="HINDI",|HINDI| BABY TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3120
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| BIG MAGIC HD" tvg-logo="" group-title="HINDI",|HINDI| BIG MAGIC HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3119
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| BINDAS MOVIES" tvg-logo="" group-title="HINDI",|HINDI| BINDAS MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3118
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| CINEPLEX HD" tvg-logo="" group-title="HINDI",|HINDI| CINEPLEX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3117
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| COMEDY ACTIVE" tvg-logo="" group-title="HINDI",|HINDI| COMEDY ACTIVE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3116
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZOOM TV HD" tvg-logo="" group-title="HINDI",|HINDI| ZOOM TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/68567
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISCOVERY JEET HD" tvg-logo="" group-title="HINDI",|HINDI| DISCOVERY JEET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3103
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISCOVERY WORLD HD" tvg-logo="" group-title="HINDI",|HINDI| DISCOVERY WORLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3102
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| E 24" tvg-logo="" group-title="HINDI",|HINDI| E 24
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3101
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ENTER 10 MOVIES" tvg-logo="" group-title="HINDI",|HINDI| ENTER 10 MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3100
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| EPIC HD" tvg-logo="" group-title="HINDI",|HINDI| EPIC HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3099
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| FOX LIFE HD" tvg-logo="" group-title="HINDI",|HINDI| FOX LIFE HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3098
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HISTORY TV18 HD" tvg-logo="" group-title="HINDI",|HINDI| HISTORY TV18 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3097
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HOUSEFULL ACTION" tvg-logo="" group-title="HINDI",|HINDI| HOUSEFULL ACTION
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3096
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA TV HD" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/414783
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA BHAKTI SAGAR HD" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA BHAKTI SAGAR HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3094
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA DIL SE HD" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA DIL SE HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3093
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA KADAK HITS HD" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA KADAK HITS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3092
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA NAZRANA HD" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA NAZRANA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3091
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA POP PATAKA HD" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA POP PATAKA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3090
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| LIVING FOODZ HD" tvg-logo="" group-title="HINDI",|HINDI| LIVING FOODZ HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3088
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MINIPLEX HD" tvg-logo="" group-title="HINDI",|HINDI| MINIPLEX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3087
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MOVIES ACTIVE" tvg-logo="" group-title="HINDI",|HINDI| MOVIES ACTIVE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3086
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MTV BEATS HD" tvg-logo="" group-title="HINDI",|HINDI| MTV BEATS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3085
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MTV PLUS HD" tvg-logo="" group-title="HINDI",|HINDI| MTV PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3084
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MUSIC INDIA" tvg-logo="" group-title="HINDI",|HINDI| MUSIC INDIA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3083
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| NAT GEO WILD HD" tvg-logo="" group-title="HINDI",|HINDI| NAT GEO WILD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3082
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="HINDI",|HINDI| NATIONAL GEOGRAPHIC HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3081
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| NICK PLUS HD" tvg-logo="" group-title="HINDI",|HINDI| NICK PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3073
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE CLASSICS" tvg-logo="" group-title="HINDI",|HINDI| ZEE CLASSICS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/212138
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SKY STAR MOVIES" tvg-logo="" group-title="HINDI",|HINDI| SKY STAR MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3070
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| TATA SKY BOLLYWOOD PREMIERE HD" tvg-logo="" group-title="HINDI",|HINDI| TATA SKY BOLLYWOOD PREMIERE HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3068
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| UTV ACTION" tvg-logo="" group-title="HINDI",|HINDI| UTV ACTION
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3067
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| UTV HD" tvg-logo="" group-title="HINDI",|HINDI| UTV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3066
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| VEDIC TV" tvg-logo="" group-title="HINDI",|HINDI| VEDIC TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3065
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| WOW CINEMA" tvg-logo="" group-title="HINDI",|HINDI| WOW CINEMA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3064
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE ANMOL" tvg-logo="" group-title="HINDI",|HINDI| ZEE ANMOL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3063
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE ANMOL CINEMA" tvg-logo="" group-title="HINDI",|HINDI| ZEE ANMOL CINEMA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3062
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE HINDUSTAN NEWS" tvg-logo="" group-title="HINDI",|HINDI| ZEE HINDUSTAN NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3061
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE NEWS" tvg-logo="" group-title="HINDI",|HINDI| ZEE NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3060
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE NEWS BIHAR" tvg-logo="" group-title="HINDI",|HINDI| ZEE NEWS BIHAR
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3059
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE NEWS MP/CHATTISGARH" tvg-logo="" group-title="HINDI",|HINDI| ZEE NEWS MP/CHATTISGARH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3058
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE NEWS UP" tvg-logo="" group-title="HINDI",|HINDI| ZEE NEWS UP
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3057
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE RAJASTHAN" tvg-logo="" group-title="HINDI",|HINDI| ZEE RAJASTHAN
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3056
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| POGO KIDS" tvg-logo="" group-title="HINDI",|HINDI| POGO KIDS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3051
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| CINEMA TV" tvg-logo="" group-title="HINDI",|HINDI| CINEMA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3050
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MOVIE HOUSE" tvg-logo="" group-title="HINDI",|HINDI| MOVIE HOUSE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3049
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AND FLIX HD" tvg-logo="" group-title="HINDI",|HINDI| AND FLIX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3047
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISH CINE ACTIVE" tvg-logo="" group-title="HINDI",|HINDI| DISH CINE ACTIVE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3046
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| EVERGREEN CLASSIC" tvg-logo="" group-title="HINDI",|HINDI| EVERGREEN CLASSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3045
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISNEY SD" tvg-logo="" group-title="HINDI",|HINDI| DISNEY SD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3043
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| TIMES NOW HD" tvg-logo="" group-title="HINDI",|HINDI| TIMES NOW HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3041
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MNX HD" tvg-logo="" group-title="HINDI",|HINDI| MNX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3040
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MOVIES NOW HD" tvg-logo="" group-title="HINDI",|HINDI| MOVIES NOW HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3039
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MN PLUS HD" tvg-logo="" group-title="HINDI",|HINDI| MN PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3038
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISNEY INTERNATIONAL HD" tvg-logo="" group-title="HINDI",|HINDI| DISNEY INTERNATIONAL HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3037
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| TATA SKY BOLLYWOOD HD" tvg-logo="" group-title="HINDI",|HINDI| TATA SKY BOLLYWOOD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3036
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| CN PLUS HD" tvg-logo="" group-title="HINDI",|HINDI| CN PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3035
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| UTV MOVIES" tvg-logo="" group-title="HINDI",|HINDI| UTV MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3034
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISNEY XD" tvg-logo="" group-title="HINDI",|HINDI| DISNEY XD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3033
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| CARTOON NETWORK" tvg-logo="" group-title="HINDI",|HINDI| CARTOON NETWORK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3031
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| REPUBLIC BHARAT" tvg-logo="" group-title="HINDI",|HINDI| REPUBLIC BHARAT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3030
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| B4U MUSIC" tvg-logo="" group-title="HINDI",|HINDI| B4U MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3029
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MASTII" tvg-logo="" group-title="HINDI",|HINDI| MASTII
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/3024
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| FOOD FOOD HD" tvg-logo="" group-title="HINDI",|HINDI| FOOD FOOD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2994
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| KRISHNA VANI HD" tvg-logo="" group-title="HINDI",|HINDI| KRISHNA VANI HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2993
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DILLI AAJ TAKK" tvg-logo="" group-title="HINDI",|HINDI| DILLI AAJ TAKK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2992
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| PRAG NEWS" tvg-logo="" group-title="HINDI",|HINDI| PRAG NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2991
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| RANG" tvg-logo="" group-title="HINDI",|HINDI| RANG
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2990
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| NEWS 18 LIVE" tvg-logo="" group-title="HINDI",|HINDI| NEWS 18 LIVE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2989
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| NDTV PROFIT" tvg-logo="" group-title="HINDI",|HINDI| NDTV PROFIT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2988
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| NDTV 24x7" tvg-logo="" group-title="HINDI",|HINDI| NDTV 24x7
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2987
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| INDIA TODAY" tvg-logo="" group-title="HINDI",|HINDI| INDIA TODAY
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2986
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| 9X MUSIC" tvg-logo="" group-title="HINDI",|HINDI| 9X MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2985
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DISCOVERY KIDS" tvg-logo="" group-title="HINDI",|HINDI| DISCOVERY KIDS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2980
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| STAR GOLD 2" tvg-logo="" group-title="HINDI",|HINDI| STAR GOLD 2
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2978
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| AND EXPLORER HD" tvg-logo="" group-title="HINDI",|HINDI| AND EXPLORER HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2977
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE ETC BOLLYWOOD" tvg-logo="" group-title="HINDI",|HINDI| ZEE ETC BOLLYWOOD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2976
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| HUNGAMA BOL HADIPA" tvg-logo="" group-title="HINDI",|HINDI| HUNGAMA BOL HADIPA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2975
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| MIRROR NOW" tvg-logo="" group-title="HINDI",|HINDI| MIRROR NOW
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2974
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| TEJ NEWS" tvg-logo="" group-title="HINDI",|HINDI| TEJ NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2973
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| PRARTHANA BHAWAN" tvg-logo="" group-title="HINDI",|HINDI| PRARTHANA BHAWAN
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2970
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| RAJASTHAN PATRIKA" tvg-logo="" group-title="HINDI",|HINDI| RAJASTHAN PATRIKA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2969
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| REPUBLIC NEWS" tvg-logo="" group-title="HINDI",|HINDI| REPUBLIC NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2968
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| IDN LOKMAT" tvg-logo="" group-title="HINDI",|HINDI| IDN LOKMAT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2965
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| PEACE MUSIC" tvg-logo="" group-title="HINDI",|HINDI| PEACE MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2964
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE NEWS MP" tvg-logo="" group-title="HINDI",|HINDI| ZEE NEWS MP
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2963
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| DIVYA TV" tvg-logo="" group-title="HINDI",|HINDI| DIVYA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2961
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| TARANG TV" tvg-logo="" group-title="HINDI",|HINDI| TARANG TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2960
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ALANKAR TV" tvg-logo="" group-title="HINDI",|HINDI| ALANKAR TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2959
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| TARANG MUSIC" tvg-logo="" group-title="HINDI",|HINDI| TARANG MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2957
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| SARTHAK TV" tvg-logo="" group-title="HINDI",|HINDI| SARTHAK TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2956
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| ZEE KALINGA" tvg-logo="" group-title="HINDI",|HINDI| ZEE KALINGA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2955
-#EXTINF:-1 tvg-id="ext" tvg-name="|HINDI| POP MUSIC HD" tvg-logo="" group-title="HINDI",|HINDI| POP MUSIC HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/230679
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| UTSAV PLUS HD" tvg-logo="" group-title="IN-UK",|IN-UK| UTSAV PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10854
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| UTSAV PLUS" tvg-logo="" group-title="IN-UK",|IN-UK| UTSAV PLUS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10853
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| UTSAV GOLD HD" tvg-logo="" group-title="IN-UK",|IN-UK| UTSAV GOLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10852
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| STAR GOLD" tvg-logo="" group-title="IN-UK",|IN-UK| STAR GOLD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10851
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| UTSAV BHARAT" tvg-logo="" group-title="IN-UK",|IN-UK| UTSAV BHARAT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10850
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| ZEE TV" tvg-logo="" group-title="IN-UK",|IN-UK| ZEE TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10849
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| ZEE CINEMA HD" tvg-logo="" group-title="IN-UK",|IN-UK| ZEE CINEMA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10848
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| ZEE CINEMA" tvg-logo="" group-title="IN-UK",|IN-UK| ZEE CINEMA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10847
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SONY ASIA HD" tvg-logo="" group-title="IN-UK",|IN-UK| SONY ASIA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10846
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SONY ASIA" tvg-logo="" group-title="IN-UK",|IN-UK| SONY ASIA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10845
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SONY MAX HD" tvg-logo="" group-title="IN-UK",|IN-UK| SONY MAX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10844
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SONY MAX" tvg-logo="" group-title="IN-UK",|IN-UK| SONY MAX
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10843
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SONY MAX 2" tvg-logo="" group-title="IN-UK",|IN-UK| SONY MAX 2
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10842
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| COLORS" tvg-logo="" group-title="IN-UK",|IN-UK| COLORS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10841
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| COLORS HD" tvg-logo="" group-title="IN-UK",|IN-UK| COLORS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10840
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SONY SAB" tvg-logo="" group-title="IN-UK",|IN-UK| SONY SAB
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10839
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| COLORS RISHTEY TV" tvg-logo="" group-title="IN-UK",|IN-UK| COLORS RISHTEY TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10838
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| COLORS CINEPLEX" tvg-logo="" group-title="IN-UK",|IN-UK| COLORS CINEPLEX
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10837
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| POP JUST FOR LAUGHS" tvg-logo="" group-title="IN-UK",|IN-UK| POP JUST FOR LAUGHS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/233485
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| B4U MOVIES" tvg-logo="" group-title="IN-UK",|IN-UK| B4U MOVIES
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10836
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| B4U MUSIC" tvg-logo="" group-title="IN-UK",|IN-UK| B4U MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10835
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| B4U PLUS" tvg-logo="" group-title="IN-UK",|IN-UK| B4U PLUS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10834
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| ZING" tvg-logo="" group-title="IN-UK",|IN-UK| ZING
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10833
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| KANSHI TV" tvg-logo="" group-title="IN-UK",|IN-UK| KANSHI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/293384
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| BRIT ASIA TV" tvg-logo="" group-title="IN-UK",|IN-UK| BRIT ASIA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10832
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| VENUS" tvg-logo="" group-title="IN-UK",|IN-UK| VENUS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10831
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| ABP NEWS" tvg-logo="" group-title="IN-UK",|IN-UK| ABP NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10830
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| AAJ TAK" tvg-logo="" group-title="IN-UK",|IN-UK| AAJ TAK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10829
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| NDTV" tvg-logo="" group-title="IN-UK",|IN-UK| NDTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10828
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| AASTHA" tvg-logo="" group-title="IN-UK",|IN-UK| AASTHA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10827
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| PTC PUNJABI" tvg-logo="" group-title="IN-UK",|IN-UK| PTC PUNJABI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10826
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SIKH CHANNEL" tvg-logo="" group-title="IN-UK",|IN-UK| SIKH CHANNEL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10825
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| AKAAL CHANNEL" tvg-logo="" group-title="IN-UK",|IN-UK| AKAAL CHANNEL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10824
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| SANGAT" tvg-logo="" group-title="IN-UK",|IN-UK| SANGAT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10823
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| MATV NATIONAL" tvg-logo="" group-title="IN-UK",|IN-UK| MATV NATIONAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10822
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| REPUBLIC TV" tvg-logo="" group-title="IN-UK",|IN-UK| REPUBLIC TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10821
-#EXTINF:-1 tvg-id="ext" tvg-name="|IN-UK| KTV" tvg-logo="" group-title="IN-UK",|IN-UK| KTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/10820
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| AND FLIX HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| AND FLIX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2934
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| AND PRIVE HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| AND PRIVE HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2933
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| BLOOMBERG INDIA" tvg-logo="" group-title="ENGLISH",|ENGLISH| BLOOMBERG INDIA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2931
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| CARTOON NETWORK" tvg-logo="" group-title="ENGLISH",|ENGLISH| CARTOON NETWORK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2930
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| CNBC TV18 NEWS HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| CNBC TV18 NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2929
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| COLORS INFINITY HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| COLORS INFINITY HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2928
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| COMEDY CENTRAL HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| COMEDY CENTRAL HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2927
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| DISNEY INTERNATIONAL HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| DISNEY INTERNATIONAL HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2926
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| DISNEY XD" tvg-logo="" group-title="ENGLISH",|ENGLISH| DISNEY XD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2925
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| ET NOW HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| ET NOW HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2924
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| FOX LIFE HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| FOX LIFE HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2923
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| HBO INDIA HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| HBO INDIA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2922
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| HISTORY TV 18 HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| HISTORY TV 18 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2921
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| MN PLUS HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| MN PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2920
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| MNX HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| MNX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2919
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| MOVIES NOW HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| MOVIES NOW HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2918
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| ANIMAL PLANET WORLD HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| ANIMAL PLANET WORLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2917
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| DISCOVERY WORLD HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| DISCOVERY WORLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2916
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| NAT GEO WILD HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| NAT GEO WILD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2915
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| NATIONAL GEOGRAPHIC HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2914
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| NAT GEO ENGLISH HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| NAT GEO ENGLISH HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2913
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| NEWS X" tvg-logo="" group-title="ENGLISH",|ENGLISH| NEWS X
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2912
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| ROMEDY NOW HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| ROMEDY NOW HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2911
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| SONY BBC EARTH ENGLISH HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| SONY BBC EARTH ENGLISH HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2910
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| STAR MOVIES HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| STAR MOVIES HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2909
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| STAR MOVIES SELECT HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| STAR MOVIES SELECT HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2908
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| STAR WORLD HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| STAR WORLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2907
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| STAR WORLD PREMIER HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| STAR WORLD PREMIER HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2906
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| THE Q YOU HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| THE Q YOU HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2905
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| TIMES NOW NEWS HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| TIMES NOW NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2904
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| TLC WORLD HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| TLC WORLD HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2903
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| TRAVEL XP HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| TRAVEL XP HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2902
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| VH1 HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| VH1 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2901
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| WARNER BROS" tvg-logo="" group-title="ENGLISH",|ENGLISH| WARNER BROS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2900
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| ZEE CAFE HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| ZEE CAFE HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2899
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| DISCOVERY SCIENCE" tvg-logo="" group-title="ENGLISH",|ENGLISH| DISCOVERY SCIENCE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2898
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| DISCOVERY KIDS" tvg-logo="" group-title="ENGLISH",|ENGLISH| DISCOVERY KIDS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2897
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| DISCOVERY TURBO" tvg-logo="" group-title="ENGLISH",|ENGLISH| DISCOVERY TURBO
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2896
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| CNN NEWS" tvg-logo="" group-title="ENGLISH",|ENGLISH| CNN NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2895
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| ALJAZEERA HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| ALJAZEERA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2894
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| ANIMAL PLANET HD" tvg-logo="" group-title="ENGLISH",|ENGLISH| ANIMAL PLANET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2893
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| WION NEWS" tvg-logo="" group-title="ENGLISH",|ENGLISH| WION NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2892
-#EXTINF:-1 tvg-id="ext" tvg-name="|ENGLISH| POP KIDS PEPPA PIG" tvg-logo="" group-title="ENGLISH",|ENGLISH| POP KIDS PEPPA PIG
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/226482
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-BD| T SPORTS HD" tvg-logo="" group-title="SPORTS",|CUP-BD| T SPORTS HD
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-PK| PTV SPORTS HD" tvg-logo="" group-title="SPORTS",|CUP-PK| PTV SPORTS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433080
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-PK| PTV Sports HD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-PK| PTV Sports HD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433079
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-PK| TEN SPORTS FHD" tvg-logo="" group-title="SPORTS",|CUP-PK| TEN SPORTS FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433078
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-PK| TEN Sports PK" tvg-logo="" group-title="SPORTS",|CUP-PK| TEN Sports PK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433077
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-UK| SKY SPORTS CRICKET FHD" tvg-logo="" group-title="SPORTS",|CUP-UK| SKY SPORTS CRICKET FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433075
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-UK| SKY SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS",|CUP-UK| SKY SPORTS CRICKET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433074
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-UK| SKY SPORTS CRICKET SD" tvg-logo="" group-title="SPORTS",|CUP-UK| SKY SPORTS CRICKET SD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433073
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-DSTV| SUPER SPORT CRICKET" tvg-logo="" group-title="SPORTS",|CUP-DSTV| SUPER SPORT CRICKET
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433070
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-MY| ASTRO CRICKET HD" tvg-logo="" group-title="SPORTS",|CUP-MY| ASTRO CRICKET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433068
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-MY| ASTRO CRICKET HD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-MY| ASTRO CRICKET HD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433067
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-TH| ASTRO CRICKET HD" tvg-logo="" group-title="SPORTS",|CUP-TH| ASTRO CRICKET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433066
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-AR| OSN TEN CRICKET" tvg-logo="" group-title="SPORTS",|CUP-AR| OSN TEN CRICKET
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433065
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS 1 HD ENGLISH" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS 1 HD ENGLISH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2756
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS 1 HD HINDI" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS 1 HD HINDI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2755
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS 2 HD" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS 2 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2754
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS 3" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS 3
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2753
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS FIRST" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS FIRST
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2757
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS SELECT 1 HD" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS SELECT 1 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2752
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS SELECT 2 HD" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS SELECT 2 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2751
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| STAR SPORTS TAMIL" tvg-logo="" group-title="SPORTS",|SPORTS| STAR SPORTS TAMIL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2750
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| TEN 1 HD" tvg-logo="" group-title="SPORTS",|SPORTS| TEN 1 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2749
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| TEN 2 HD" tvg-logo="" group-title="SPORTS",|SPORTS| TEN 2 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2748
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| TEN 3 HD" tvg-logo="" group-title="SPORTS",|SPORTS| TEN 3 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2747
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| SONY SIX HD" tvg-logo="" group-title="SPORTS",|SPORTS| SONY SIX HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2758
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| WILLOW CRICKET HD" tvg-logo="" group-title="SPORTS",|SPORTS| WILLOW CRICKET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2746
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| D SPORTS HD" tvg-logo="" group-title="SPORTS",|SPORTS| D SPORTS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2759
-#EXTINF:-1 tvg-id="ext" tvg-name="|SPORTS| DD SPORTS" tvg-logo="" group-title="SPORTS",|SPORTS| DD SPORTS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/2745
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 1 HINDI FHD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 1 HINDI FHD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433111
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 1 HINDI FHD (BACKUP2)" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 1 HINDI FHD (BACKUP2)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433110
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 1 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 1 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433109
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 1 HD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 1 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433106
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 2 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 2 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433105
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 2 FHD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 2 FHD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433104
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 2" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 2
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433103
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 3 HD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 3 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433102
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 3 HD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 3 HD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433101
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 3" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 3
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433100
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS SELECT 1 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS SELECT 1 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433099
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS SELECT 1 FHD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS SELECT 1 FHD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433098
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| Star Sports Select 1 HD" tvg-logo="" group-title="SPORTS",|CUP-IN| Star Sports Select 1 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433097
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS SELECT 2 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS SELECT 2 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433096
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS SELECT 2 FHD (BACKUP)" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS SELECT 2 FHD (BACKUP)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433095
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| Star Sports Select 2 HD" tvg-logo="" group-title="SPORTS",|CUP-IN| Star Sports Select 2 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433094
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 1 TAMIL" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 1 TAMIL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433093
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| STAR SPORTS 1 TAMIL HD" tvg-logo="" group-title="SPORTS",|CUP-IN| STAR SPORTS 1 TAMIL HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433092
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| SKY SPORTS CRICKET HD" tvg-logo="" group-title="SPORTS",|CUP-IN| SKY SPORTS CRICKET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433091
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| SKY SPORTS CRICKET FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| SKY SPORTS CRICKET FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433090
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| FOX CRICKET 501 HD" tvg-logo="" group-title="SPORTS",|CUP-IN| FOX CRICKET 501 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433089
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| SONY TEN 1 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| SONY TEN 1 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433088
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| SONY TEN 2 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| SONY TEN 2 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433087
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| SONY TEN 3 FHD" tvg-logo="" group-title="SPORTS",|CUP-IN| SONY TEN 3 FHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433086
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| WILLOW CRICKET HD" tvg-logo="" group-title="SPORTS",|CUP-IN| WILLOW CRICKET HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433085
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| DD Sports HD" tvg-logo="" group-title="SPORTS",|CUP-IN| DD Sports HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433083
-#EXTINF:-1 tvg-id="ext" tvg-name="|CUP-IN| DD SPORTS HD (BACKUP2)" tvg-logo="" group-title="SPORTS",|CUP-IN| DD SPORTS HD (BACKUP2)
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/433081
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| ARY DIGITAL" tvg-logo="" group-title="PAK",|PK-UK| ARY DIGITAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/398240
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| GEO TV" tvg-logo="" group-title="PAK",|PK-UK| GEO TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7999
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| GEO NEWS" tvg-logo="" group-title="PAK",|PK-UK| GEO NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7998
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| GEO KAHANI" tvg-logo="" group-title="PAK",|PK-UK| GEO KAHANI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7997
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| HUM TV" tvg-logo="" group-title="PAK",|PK-UK| HUM TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7996
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| HUM MASALA" tvg-logo="" group-title="PAK",|PK-UK| HUM MASALA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7995
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| HUM NEWS" tvg-logo="" group-title="PAK",|PK-UK| HUM NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7994
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| SAMAA" tvg-logo="" group-title="PAK",|PK-UK| SAMAA
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7993
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| DUNYA NEWS" tvg-logo="" group-title="PAK",|PK-UK| DUNYA NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7992
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| 92 NEWS" tvg-logo="" group-title="PAK",|PK-UK| 92 NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7991
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| NEW VISION TV" tvg-logo="" group-title="PAK",|PK-UK| NEW VISION TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7990
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| TAKBEER" tvg-logo="" group-title="PAK",|PK-UK| TAKBEER
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7988
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| PTV GLOBAL" tvg-logo="" group-title="PAK",|PK-UK| PTV GLOBAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7987
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| NOOR TV" tvg-logo="" group-title="PAK",|PK-UK| NOOR TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7986
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| IQRA TV" tvg-logo="" group-title="PAK",|PK-UK| IQRA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7985
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| ISLAM CHANNEL" tvg-logo="" group-title="PAK",|PK-UK| ISLAM CHANNEL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7984
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| MADANI CHANNEL" tvg-logo="" group-title="PAK",|PK-UK| MADANI CHANNEL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7982
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| PEACE TV" tvg-logo="" group-title="PAK",|PK-UK| PEACE TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7981
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| PEACE TV URDU" tvg-logo="" group-title="PAK",|PK-UK| PEACE TV URDU
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7980
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| BRITISH MUSLIM" tvg-logo="" group-title="PAK",|PK-UK| BRITISH MUSLIM
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7979
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| ISLAM CHANNEL URDU" tvg-logo="" group-title="PAK",|PK-UK| ISLAM CHANNEL URDU
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7978
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| AHLULBAYT TV" tvg-logo="" group-title="PAK",|PK-UK| AHLULBAYT TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7977
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| AHLEBAIT TV" tvg-logo="" group-title="PAK",|PK-UK| AHLEBAIT TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7976
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| HIDAYAT TV" tvg-logo="" group-title="PAK",|PK-UK| HIDAYAT TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7975
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| HYDER TV" tvg-logo="" group-title="PAK",|PK-UK| HYDER TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7974
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK-UK| EMAN CHANNEL" tvg-logo="" group-title="PAK",|PK-UK| EMAN CHANNEL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7973
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ARY DIGITAL" tvg-logo="" group-title="PAK",|PK| ARY DIGITAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7971
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ARY NEWS" tvg-logo="" group-title="PAK",|PK| ARY NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7970
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| HUM NEWS HD" tvg-logo="" group-title="PAK",|PK| HUM NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7968
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| HUM TV HD" tvg-logo="" group-title="PAK",|PK| HUM TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7967
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| HUM SITARY" tvg-logo="" group-title="PAK",|PK| HUM SITARY
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7966
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| HUM MASALA TV" tvg-logo="" group-title="PAK",|PK| HUM MASALA TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7965
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| 92 NEWS HD" tvg-logo="" group-title="PAK",|PK| 92 NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7964
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DUNYA NEWS" tvg-logo="" group-title="PAK",|PK| DUNYA NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7963
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| BOL NEWS HD" tvg-logo="" group-title="PAK",|PK| BOL NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7962
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| AAJ ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| AAJ ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7961
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| EXPRESS ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| EXPRESS ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7960
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| EXPRESS NEWS" tvg-logo="" group-title="PAK",|PK| EXPRESS NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7959
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ATV ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| ATV ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7958
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ARY ZINDAGI" tvg-logo="" group-title="PAK",|PK| ARY ZINDAGI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7957
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| A PLUS" tvg-logo="" group-title="PAK",|PK| A PLUS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7956
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| URDU 1HD" tvg-logo="" group-title="PAK",|PK| URDU 1HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7955
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GEO NEWS" tvg-logo="" group-title="PAK",|PK| GEO NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7954
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GEO KAHANI" tvg-logo="" group-title="PAK",|PK| GEO KAHANI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7953
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GEO ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| GEO ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7952
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| AAJ NEWS" tvg-logo="" group-title="PAK",|PK| AAJ NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7951
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| A Sports TV HD" tvg-logo="" group-title="PAK",|PK| A Sports TV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/455563
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| BOL NEWS UHD" tvg-logo="" group-title="PAK",|PK| BOL NEWS UHD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7950
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DAWN NEWS" tvg-logo="" group-title="PAK",|PK| DAWN NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7949
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| SAAMA NEWS" tvg-logo="" group-title="PAK",|PK| SAAMA NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7948
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GTV HD" tvg-logo="" group-title="PAK",|PK| GTV HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7946
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CAPITAL TV" tvg-logo="" group-title="PAK",|PK| CAPITAL TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7945
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CITY 41" tvg-logo="" group-title="PAK",|PK| CITY 41
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7944
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CITY 42" tvg-logo="" group-title="PAK",|PK| CITY 42
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7943
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GNN HD" tvg-logo="" group-title="PAK",|PK| GNN HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7942
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PUBLIC NEWS HD" tvg-logo="" group-title="PAK",|PK| PUBLIC NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7941
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| KHYBER NEWS" tvg-logo="" group-title="PAK",|PK| KHYBER NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7940
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV NEWS" tvg-logo="" group-title="PAK",|PK| PTV NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7939
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ROZE NEWS" tvg-logo="" group-title="PAK",|PK| ROZE NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7938
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| SINDH NEWS" tvg-logo="" group-title="PAK",|PK| SINDH NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7937
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| KOHINOOR NEWS" tvg-logo="" group-title="PAK",|PK| KOHINOOR NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7935
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CHANNEL 24 HD" tvg-logo="" group-title="PAK",|PK| CHANNEL 24 HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7934
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| FILMAZIA ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| FILMAZIA ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7933
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| AVT KHYBER" tvg-logo="" group-title="PAK",|PK| AVT KHYBER
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7932
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| APNA CHANNEL" tvg-logo="" group-title="PAK",|PK| APNA CHANNEL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7931
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ABBTAKK NEWS" tvg-logo="" group-title="PAK",|PK| ABBTAKK NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7930
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| NEWS ONE" tvg-logo="" group-title="PAK",|PK| NEWS ONE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7929
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| NEO NEWS HD" tvg-logo="" group-title="PAK",|PK| NEO NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7928
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| LAHORE NEWS HD" tvg-logo="" group-title="PAK",|PK| LAHORE NEWS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7927
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV GLOBAL" tvg-logo="" group-title="PAK",|PK| PTV GLOBAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7926
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ROHI TV" tvg-logo="" group-title="PAK",|PK| ROHI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7925
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| METRO 1" tvg-logo="" group-title="PAK",|PK| METRO 1
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7924
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| LAHROE RANG HD" tvg-logo="" group-title="PAK",|PK| LAHROE RANG HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7923
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GEO TEZZ" tvg-logo="" group-title="PAK",|PK| GEO TEZZ
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7922
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CHANNEL 5" tvg-logo="" group-title="PAK",|PK| CHANNEL 5
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7921
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| TV ONE" tvg-logo="" group-title="PAK",|PK| TV ONE
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7920
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| KTN NEWS" tvg-logo="" group-title="PAK",|PK| KTN NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7919
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| SUCH NEWS" tvg-logo="" group-title="PAK",|PK| SUCH NEWS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7918
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CARTOON NETWORK HD" tvg-logo="" group-title="PAK",|PK| CARTOON NETWORK HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7916
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| CARTOON NETWORK" tvg-logo="" group-title="PAK",|PK| CARTOON NETWORK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7915
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| POP" tvg-logo="" group-title="PAK",|PK| POP
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7914
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| NICK" tvg-logo="" group-title="PAK",|PK| NICK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7912
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ARY QTV" tvg-logo="" group-title="PAK",|PK| ARY QTV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7910
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| SAUDI QURAN" tvg-logo="" group-title="PAK",|PK| SAUDI QURAN
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7909
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| SAUDI SUNNAH" tvg-logo="" group-title="PAK",|PK| SAUDI SUNNAH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7908
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PEACE TV URDU" tvg-logo="" group-title="PAK",|PK| PEACE TV URDU
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7907
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PEACE TV ENGLISH" tvg-logo="" group-title="PAK",|PK| PEACE TV ENGLISH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7906
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| MADNI TV" tvg-logo="" group-title="PAK",|PK| MADNI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7905
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| KASHISH" tvg-logo="" group-title="PAK",|PK| KASHISH
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7904
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| HADI TV" tvg-logo="" group-title="PAK",|PK| HADI TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7902
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| BOL ENTERTAINMENT HD" tvg-logo="" group-title="PAK",|PK| BOL ENTERTAINMENT HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7900
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| SINDH ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| SINDH ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7899
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| KTN ENTERTAINMENT" tvg-logo="" group-title="PAK",|PK| KTN ENTERTAINMENT
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7898
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV BOLAN" tvg-logo="" group-title="PAK",|PK| PTV BOLAN
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7897
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV HOME" tvg-logo="" group-title="PAK",|PK| PTV HOME
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7896
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV WORLD" tvg-logo="" group-title="PAK",|PK| PTV WORLD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7895
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| A-SPORTS" tvg-logo="" group-title="PAK",|PK| A-SPORTS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/246054
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV SPORTS" tvg-logo="" group-title="PAK",|PK| PTV SPORTS
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7893
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PTV SPORTS HD" tvg-logo="" group-title="PAK",|PK| PTV SPORTS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7892
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| TEN SPORTS HD" tvg-logo="" group-title="PAK",|PK| TEN SPORTS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7891
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| GEO SUPER" tvg-logo="" group-title="PAK",|PK| GEO SUPER
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7890
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DMG MUSIC HD" tvg-logo="" group-title="PAK",|PK| DMG MUSIC HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7888
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| ARY MUSIK" tvg-logo="" group-title="PAK",|PK| ARY MUSIK
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7886
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| JALWA MUSIC" tvg-logo="" group-title="PAK",|PK| JALWA MUSIC
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7885
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| 8XM HD" tvg-logo="" group-title="PAK",|PK| 8XM HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7884
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DMG HITS HD" tvg-logo="" group-title="PAK",|PK| DMG HITS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7881
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DMG PLUS HD" tvg-logo="" group-title="PAK",|PK| DMG PLUS HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7880
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DMG MOVIES HD" tvg-logo="" group-title="PAK",|PK| DMG MOVIES HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7879
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DMG CINEMA HD" tvg-logo="" group-title="PAK",|PK| DMG CINEMA HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7878
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| DMG ACTION HD" tvg-logo="" group-title="PAK",|PK| DMG ACTION HD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7877
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| FILMWORLD" tvg-logo="" group-title="PAK",|PK| FILMWORLD
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7870
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| LTN FAMILY" tvg-logo="" group-title="PAK",|PK| LTN FAMILY
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7869
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| E4U DIGITAL" tvg-logo="" group-title="PAK",|PK| E4U DIGITAL
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/161797
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PASHTOO 1" tvg-logo="" group-title="PAK",|PK| PASHTOO 1
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7867
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PAIGAM URDU" tvg-logo="" group-title="PAK",|PK| PAIGAM URDU
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7866
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PAIGAM PASHTOO" tvg-logo="" group-title="PAK",|PK| PAIGAM PASHTOO
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7865
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| PLAY TV" tvg-logo="" group-title="PAK",|PK| PLAY TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7863
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| WASEEB TV" tvg-logo="" group-title="PAK",|PK| WASEEB TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7862
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| HYDER TV" tvg-logo="" group-title="PAK",|PK| HYDER TV
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/118724
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| RAAVI" tvg-logo="" group-title="PAK",|PK| RAAVI
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7861
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| K-21" tvg-logo="" group-title="PAK",|PK| K-21
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7860
-#EXTINF:-1 tvg-id="ext" tvg-name="|PK| KAY-2" tvg-logo="" group-title="PAK",|PK| KAY-2
-http://line.crystal-ott.com:80/7pC93vdZVUZNHSa/qatAMSo3g7/7859
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA HD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100639
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE 24 GHANTA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE 24 GHANTA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100640
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JALSHA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: JALSHA MOVIES
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100641
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100642
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: AAKAASH BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: AAKAASH BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100643
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TITASH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: TITASH TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100644
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NAGORIK TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NAGORIK TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100645
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ABP ANANDA" tvg-logo="" group-title="AS BANGLA",BANGLA: ABP ANANDA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100646
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100648
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN NEWS" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN NEWS
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100650
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BANGLA ETV" tvg-logo="" group-title="AS BANGLA",BANGLA: BANGLA ETV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100651
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BIJOY TV" tvg-logo="" group-title="AS BANGLA",BANGLA: BIJOY TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100655
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN ISLAMIC TV" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN ISLAMIC TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100656
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BOISHAKHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: BOISHAKHI TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100657
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV WORLD" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV WORLD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100658
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BTV" tvg-logo="" group-title="AS BANGLA",BANGLA: BTV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100659
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL 9" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL 9
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100661
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL I" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL I
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100663
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL S" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL S
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100664
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: COLORS BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: COLORS BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100665
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DBC NEWS" tvg-logo="" group-title="AS BANGLA",BANGLA: DBC NEWS
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100666
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DD BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: DD BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100667
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESH TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESH TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100668
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHE BIDESHE TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHE BIDESHE TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100669
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DESHI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: DESHI TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100670
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DHOOM MUSIC" tvg-logo="" group-title="AS BANGLA",BANGLA: DHOOM MUSIC
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100671
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: EKATTOR TV" tvg-logo="" group-title="AS BANGLA",BANGLA: EKATTOR TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100673
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ETV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ETV BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100674
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: GAAN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: GAAN BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100676
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: INDEPENDENT TV" tvg-logo="" group-title="AS BANGLA",BANGLA: INDEPENDENT TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100677
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: iTV" tvg-logo="" group-title="AS BANGLA",BANGLA: iTV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100678
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MASRANGA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: MASRANGA TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100679
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MILLENNIUM TV" tvg-logo="" group-title="AS BANGLA",BANGLA: MILLENNIUM TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100680
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MOHONA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: MOHONA TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100681
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MOVIE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: MOVIE BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100682
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NEWS TIME" tvg-logo="" group-title="AS BANGLA",BANGLA: NEWS TIME
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100685
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NRB TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NRB TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100686
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NTV" tvg-logo="" group-title="AS BANGLA",BANGLA: NTV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100687
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RTV" tvg-logo="" group-title="AS BANGLA",BANGLA: RTV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100690
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RUPOSHI BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: RUPOSHI BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100691
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SANGEET BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SANGEET BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100692
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SATV" tvg-logo="" group-title="AS BANGLA",BANGLA: SATV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100693
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: KTV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: KTV BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100694
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SOMOY NEWS TV" tvg-logo="" group-title="AS BANGLA",BANGLA: SOMOY NEWS TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100695
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SONY AATH" tvg-logo="" group-title="AS BANGLA",BANGLA: SONY AATH
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100696
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JHALSA MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JHALSA MOVIES
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100697
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: BONGO MOVIES" tvg-logo="" group-title="AS BANGLA",BANGLA: BONGO MOVIES
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100699
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TIME TELEVISION" tvg-logo="" group-title="AS BANGLA",BANGLA: TIME TELEVISION
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100700
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TV ASIA" tvg-logo="" group-title="AS BANGLA",BANGLA: TV ASIA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100701
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA CINEMA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA CINEMA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100702
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ATN BANGLA USA" tvg-logo="" group-title="AS BANGLA",BANGLA: ATN BANGLA USA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100703
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: DEEPTO TV HD" tvg-logo="" group-title="AS BANGLA",BANGLA: DEEPTO TV HD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100704
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NEWS 24 HD" tvg-logo="" group-title="AS BANGLA",BANGLA: NEWS 24 HD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100706
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100707
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JAMUNA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JAMUNA TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100710
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: RTV MUSIC" tvg-logo="" group-title="AS BANGLA",BANGLA: RTV MUSIC
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100711
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ZEE BANGLA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: ZEE BANGLA HD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100716
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JONMOBHUMI TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JONMOBHUMI TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100719
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: MADANI TV BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: MADANI TV BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100720
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: STAR JALSHA HD" tvg-logo="" group-title="AS BANGLA",BANGLA: STAR JALSHA HD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100722
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NANDAN TV HD" tvg-logo="" group-title="AS BANGLA",BANGLA: NANDAN TV HD
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100728
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ANANDA TV" tvg-logo="" group-title="AS BANGLA",BANGLA: ANANDA TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100732
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: JHANKAR TV" tvg-logo="" group-title="AS BANGLA",BANGLA: JHANKAR TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100734
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: NAN TV" tvg-logo="" group-title="AS BANGLA",BANGLA: NAN TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100742
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: FAMILY TV" tvg-logo="" group-title="AS BANGLA",BANGLA: FAMILY TV
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100743
+#EXTINF:-1 tvg-ID="" tvg-name=" DISCOVERY HD BENGALI" tvg-logo="" group-title="AS BANGLA", DISCOVERY HD BENGALI
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100753
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: SUN BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: SUN BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100754
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: TBN 24" tvg-logo="" group-title="AS BANGLA",BANGLA: TBN 24
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100756
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: iTV UK" tvg-logo="" group-title="AS BANGLA",BANGLA: iTV UK
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100757
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: ENTER 10 BANGLA" tvg-logo="" group-title="AS BANGLA",BANGLA: ENTER 10 BANGLA
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100759
+#EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL TT" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL TT
+http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100760
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/key?payload=gAAAAABkv4LEZddHs5n16ZbOtFU0EaiW0NhzMh_ZCQDSPpQ3nbdUau8bEMmU75PL8JEIY2nnaifQ4wU0HQ1AsHAG00PPJZ8tBwwH2UShFH2sD7NL-0npQ2HeRDXDn3xzUj1DH1MktHowjQA10CaA1-2B9xBrjf7sC3m4yeOfApoo8GmYDPt-W9w=
+#EXTINF:-1 tvg-id="ts842" group-title="Spiritual - IPTV by @cratos_logan" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png",Somnath Temple
+https://delta45tatasky.akamaized.net/out/i/722.mpd
