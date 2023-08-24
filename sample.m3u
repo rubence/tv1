@@ -141,7 +141,66 @@ http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100757
 http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100759
 #EXTINF:-1 tvg-ID="" tvg-name="BANGLA: CHANNEL TT" tvg-logo="" group-title="AS BANGLA",BANGLA: CHANNEL TT
 http://sansat.net:25461/zak22023/YQO9EXZRG89AKZ4/100760
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BD: Asian TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/82f13e82d6722142f0c589e096977979.png" group-title="Bangladesh",BD: Asian TV
+http://aanax.com:8080/8228218d/426af0d086/69334
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f5a9bffba66ee8bbc830d4f2331298b1.png" group-title="Bangladesh",BD: ATN Bangla
+http://aanax.com:8080/8228218d/426af0d086/298392
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN Bangla UK" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/497dad7fbe04f98438abed2aed636f6f.png" group-title="Bangladesh",BD: ATN Bangla UK
+http://aanax.com:8080/8228218d/426af0d086/69329
+#EXTINF:-1 tvg-id="" tvg-name="BD: ATN News" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3ced4094e63d339749a628c4bd47e396.png" group-title="Bangladesh",BD: ATN News
+http://aanax.com:8080/8228218d/426af0d086/69342
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla 21" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9fcc1c759a2c338d37442c4ea463fd67.png" group-title="Bangladesh",BD: Bangla 21
+http://aanax.com:8080/8228218d/426af0d086/296843
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla GTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/63410d32e36ad5929dc69aab47dc7189.jpg" group-title="Bangladesh",BD: Bangla GTV
+http://aanax.com:8080/8228218d/426af0d086/298397
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5320d70fca007c776d05580bf1bc206b.png" group-title="Bangladesh",BD: Bangla TV
+http://aanax.com:8080/8228218d/426af0d086/296842
+#EXTINF:-1 tvg-id="" tvg-name="BD: Bangla Vision" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f2d0151f11cd2a5bcbf8530c15012bed.svg" group-title="Bangladesh",BD: Bangla Vision
+http://aanax.com:8080/8228218d/426af0d086/69335
+#EXTINF:-1 tvg-id="" tvg-name="BD: Boishakhi TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8b4c71e966be7a8c2446cc775bf22b3d.png" group-title="Bangladesh",BD: Boishakhi TV
+http://aanax.com:8080/8228218d/426af0d086/69337
+#EXTINF:-1 tvg-id="" tvg-name="BD: Btv Chittagong" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ff36aa881cedada421a049057d152ad9.png" group-title="Bangladesh",BD: Btv Chittagong
+http://aanax.com:8080/8228218d/426af0d086/172565
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 9" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/155630164db625d0aaa3aa43198b678e.png" group-title="Bangladesh",BD: Channel 9
+http://aanax.com:8080/8228218d/426af0d086/69344
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel 24" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e1c97d6ff3124e768a00ffe0e6252ff8.png" group-title="Bangladesh",BD: Channel 24
+http://aanax.com:8080/8228218d/426af0d086/69341
+#EXTINF:-1 tvg-id="" tvg-name="BD: Channel S" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a83754d2688bf3363b3bb1612eadcaf7.png" group-title="Bangladesh",BD: Channel S
+http://aanax.com:8080/8228218d/426af0d086/69346
+#EXTINF:-1 tvg-id="" tvg-name="BD: DBC News" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/fdad9ee99b6195c099c2448cb97eefc7.png" group-title="Bangladesh",BD: DBC News
+http://aanax.com:8080/8228218d/426af0d086/172577
+#EXTINF:-1 tvg-id="" tvg-name="BD: DD Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f9b422e271f9c6ba97c86bb89e30481a.png" group-title="Bangladesh",BD: DD Bangla
+http://aanax.com:8080/8228218d/426af0d086/45488
+#EXTINF:-1 tvg-id="" tvg-name="BD: Desh TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c2015da0bafd869a2d4e9b17d71157d2.png" group-title="Bangladesh",BD: Desh TV
+http://aanax.com:8080/8228218d/426af0d086/69347
+#EXTINF:-1 tvg-id="" tvg-name="BD: DesheBideshe TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/087bb96f1ea2597b10ddd54f355ff6ba.jpg" group-title="Bangladesh",BD: DesheBideshe TV
+http://aanax.com:8080/8228218d/426af0d086/294920
+#EXTINF:-1 tvg-id="" tvg-name="BD: Ekushey TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a0e434d563bb11f901909e9169fb1724.png" group-title="Bangladesh",BD: Ekushey TV
+http://aanax.com:8080/8228218d/426af0d086/69350
+#EXTINF:-1 tvg-id="" tvg-name="BD: Gaan Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/29387f71258547d48403e9f140d3c427.png" group-title="Bangladesh",BD: Gaan Bangla
+http://aanax.com:8080/8228218d/426af0d086/69349
+#EXTINF:-1 tvg-id="" tvg-name="BD: Independent TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c35f23fdb975bbd658139ce95f7cf962.png" group-title="Bangladesh",BD: Independent TV
+http://aanax.com:8080/8228218d/426af0d086/165826
+#EXTINF:-1 tvg-id="" tvg-name="BD: Iqra Bangla" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0d237f39df17dd6967c9e38ee1b2b724.png" group-title="Bangladesh",BD: Iqra Bangla
+http://aanax.com:8080/8228218d/426af0d086/69364
+#EXTINF:-1 tvg-id="" tvg-name="BD: Jamuna TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba6409b5f51e2b8ecc7e0e5e408b4a6b.png" group-title="Bangladesh",BD: Jamuna TV
+http://aanax.com:8080/8228218d/426af0d086/69353
+#EXTINF:-1 tvg-id="" tvg-name="BD: Jhankar" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6bc0f0ae53081258235d3b166858b79d.jpg" group-title="Bangladesh",BD: Jhankar
+http://aanax.com:8080/8228218d/426af0d086/297567
+#EXTINF:-1 tvg-id="" tvg-name="BD: Millennium TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a4b9abfcba3bc8548cc78b52f691ac3.png" group-title="Bangladesh",BD: Millennium TV
+http://aanax.com:8080/8228218d/426af0d086/196241
+#EXTINF:-1 tvg-id="" tvg-name="BD: Mohona TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/795c25eae698770b679fd6c2b2b610bb.svg" group-title="Bangladesh",BD: Mohona TV
+http://aanax.com:8080/8228218d/426af0d086/69354
+#EXTINF:-1 tvg-id="" tvg-name="BD: Nandan TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-07/5ed587dd5dba8f4f7221d46390cedea9.png" group-title="Bangladesh",BD: Nandan TV
+http://aanax.com:8080/8228218d/426af0d086/172582
+#EXTINF:-1 tvg-id="" tvg-name="BD: News 24" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7cd155bd31c55437e4a99064656d513c.png" group-title="Bangladesh",BD: News 24
+http://aanax.com:8080/8228218d/426af0d086/5127
+#EXTINF:-1 tvg-id="" tvg-name="BD: NTV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8d7d64949d59287589cc56a0c7ed1fcc.png" group-title="Bangladesh",BD: NTV
+http://aanax.com:8080/8228218d/426af0d086/3647
+#EXTINF:-1 tvg-id="" tvg-name="BD: SA TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/05559528cea007c2b59ba5269366ba35.png" group-title="Bangladesh",BD: SA TV
+http://aanax.com:8080/8228218d/426af0d086/69357
+#EXTINF:-1 tvg-id="" tvg-name="BD: Somoy News TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/10e7d79c8a56aae42fc9b79070edee68.png" group-title="Bangladesh",BD: Somoy News TV
+http://aanax.com:8080/8228218d/426af0d086/69359
 #EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1080" tvg-logo="http://bl3rbe.net/up/st4td8EHVH.png" group-title="INDIA ⭐️ الهند",STAR PLUS 1080
 http://5gfksa.ltd:80/live/123456123/654321/505257.ts
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="http://bl3rbe.net/up/xV2cG5vMf7Yh.jpeg" group-title="INDIA ⭐️ الهند",STAR GOLD HD
